@@ -42,6 +42,9 @@ Rows = taxa, columns = phylogeny.
 
 Raw sequences for the data generated in this study are available on the European Nucleotide Archive under accession project numbers PRJEB88517.
 
+Data is also available on Zenodo at 10.5281/zenodo.15263460
+
+
 *****************************************************
 
 
