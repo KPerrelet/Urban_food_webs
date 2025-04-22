@@ -1,0 +1,1397 @@
+Interaction,Source_Name,Target_Name,Source_Rank,Target_Rank,ID,Source_Life_Stage,Target_Life_Stage
+Aeshnidae Aeshnidae,Aeshnidae,Aeshnidae,Family,Family,1,Young,Young
+Aeshnidae Annelida,Aeshnidae,Annelida,Family,Feeding guild,81,Young,Young and Adult
+Aeshnidae Arrenuridae,Aeshnidae,Arrenuridae,Family,Family,48,Young,Young
+Aeshnidae Calliphoridae,Aeshnidae,Calliphoridae,Family,Family,1,,
+Aeshnidae Candonidae,Aeshnidae,Candonidae,Family,Family,51,Young,
+Aeshnidae Cantharidae,Aeshnidae,Cantharidae,Family,Family,1,,
+Aeshnidae Cecidomyiidae,Aeshnidae,Cecidomyiidae,Family,Family,1,,
+Aeshnidae Ceratopogonidae,Aeshnidae,Ceratopogonidae,Family,Family,1,,
+Aeshnidae Chironomidae,Aeshnidae,Chironomidae,Family,Family,1,Young,Young
+Aeshnidae Chloropidae,Aeshnidae,Chloropidae,Family,Family,1,,
+Aeshnidae Chrysomelidae,Aeshnidae,Chrysomelidae,Family,Family,1,,
+Aeshnidae Coenagrionidae,Aeshnidae,Coenagrionidae,Family,Family,1,Young,Young
+Aeshnidae Culicidae,Aeshnidae,Culicidae,Family,Family,1,,
+Aeshnidae Curculionidae,Aeshnidae,Curculionidae,Family,Family,1,,
+Aeshnidae Cyprididae,Aeshnidae,Cyprididae,Family,Family,51,Young,
+Aeshnidae Dolichopodidae,Aeshnidae,Dolichopodidae,Family,Family,1,,
+Aeshnidae Drosophilidae,Aeshnidae,Drosophilidae,Family,Family,1,,
+Aeshnidae Dytiscidae,Aeshnidae,Dytiscidae,Family,Family,1,Young and Adult,Young and Adult
+Aeshnidae Elateridae,Aeshnidae,Elateridae,Family,Family,1,,
+Aeshnidae Empididae,Aeshnidae,Empididae,Family,Family,1,,
+Aeshnidae Ephydridae,Aeshnidae,Ephydridae,Family,Family,1,,
+Aeshnidae Gammaridae,Aeshnidae,Gammaridae,Family,Family,1,,
+Aeshnidae Haliplidae,Aeshnidae,Haliplidae,Family,Family,1,,
+Aeshnidae Hepialidae,Aeshnidae,Hepialidae,Family,Family,70,Adult,Adult
+Aeshnidae Hybotidae,Aeshnidae,Hybotidae,Family,Family,1,,
+Aeshnidae Lauxaniidae,Aeshnidae,Lauxaniidae,Family,Family,76,Adult,
+Aeshnidae Libellulidae,Aeshnidae,Libellulidae,Family,Family,1,Young,Young
+Aeshnidae Limnephilidae,Aeshnidae,Limnephilidae,Family,Family,1,Young,Young
+Aeshnidae Limoniidae,Aeshnidae,Limoniidae,Family,Family,1,,
+Aeshnidae Lonchopteridae,Aeshnidae,Lonchopteridae,Family,Family,79,Adult,Adult
+Aeshnidae Lymnaeidae,Aeshnidae,Lymnaeidae,Family,Family,1,,
+Aeshnidae Muscidae,Aeshnidae,Muscidae,Family,Family,1,,
+Aeshnidae Noctuidae,Aeshnidae,Noctuidae,Family,Family,1,,
+Aeshnidae Notonectidae,Aeshnidae,Notonectidae,Family,Family,1,Young and Adult,Young and Adult
+Aeshnidae Phoridae,Aeshnidae,Phoridae,Family,Family,1,,
+Aeshnidae Psychodidae,Aeshnidae,Psychodidae,Family,Family,1,Adult,Adult
+Aeshnidae Sarcophagidae,Aeshnidae,Sarcophagidae,Family,Family,1,,
+Aeshnidae Sciaridae,Aeshnidae,Sciaridae,Family,Family,1,,
+Aeshnidae Sciomyzidae,Aeshnidae,Sciomyzidae,Family,Family,1,,
+Aeshnidae Sialidae,Aeshnidae,Sialidae,Family,Family,1,Young,Young
+Aeshnidae Syrphidae,Aeshnidae,Syrphidae,Family,Family,1,,
+Agromyzidae Agromyzidae,Agromyzidae,Agromyzidae,Family,Family,1,,
+Agromyzidae Plants,Agromyzidae,Plants,Family,Feeding guild,2,Young,
+Agromyzidae Tephritidae,Agromyzidae,Tephritidae,Family,Family,1,,
+Ameroseiidae Plants,Ameroseiidae,Plants,Family,Feeding guild,3,Young and Adult,
+Annelida Algae,Annelida,Algae,Feeding guild,Feeding guild,16,Young and Adult,
+Annelida Aquatic detritus,Annelida,Aquatic detritus,Feeding guild,Feeding guild,16; 28; 30,Young and Adult,
+Annelida Chironomidae,Annelida,Chironomidae,Feeding guild,Family,18,Adult,
+Annelida Fungi,Annelida,Fungi,Feeding guild,Feeding guild,16,Young and Adult,
+Annelida Terrestrial detritus,Annelida,Terrestrial detritus,Feeding guild,Feeding guild,2; 27; 29,Young and Adult,
+Anthomyiidae Annelida,Anthomyiidae,Annelida,Family,Feeding guild,2,Young,Young
+Anthomyiidae Baetidae,Anthomyiidae,Baetidae,Family,Family,2,Young,Young
+Anthomyiidae Caenidae,Anthomyiidae,Caenidae,Family,Family,2,Young,Young
+Anthomyiidae Capniidae,Anthomyiidae,Capniidae,Family,Family,2,Young,Young
+Anthomyiidae Chironomidae,Anthomyiidae,Chironomidae,Family,Family,2,Young,Young
+Anthomyiidae Chrysomelidae,Anthomyiidae,Chrysomelidae,Family,Family,2,Young,Young
+Anthomyiidae Culicidae,Anthomyiidae,Culicidae,Family,Family,2,Young,Young
+Anthomyiidae Curculionidae,Anthomyiidae,Curculionidae,Family,Family,2,Young,Young
+Anthomyiidae Dixidae,Anthomyiidae,Dixidae,Family,Family,2,Young,Young
+Anthomyiidae Dryopidae,Anthomyiidae,Dryopidae,Family,Family,2,Young,Young
+Anthomyiidae Elmidae,Anthomyiidae,Elmidae,Family,Family,2,Young,Young
+Anthomyiidae Ephemeridae,Anthomyiidae,Ephemeridae,Family,Family,2,Young,Young
+Anthomyiidae Ephydridae,Anthomyiidae,Ephydridae,Family,Family,2,Young,Young
+Anthomyiidae Gammaridae,Anthomyiidae,Gammaridae,Family,Family,2,Young,Young
+Anthomyiidae Haliplidae,Anthomyiidae,Haliplidae,Family,Family,2,Young,Young
+Anthomyiidae Heptageniidae,Anthomyiidae,Heptageniidae,Family,Family,2,Young,Young
+Anthomyiidae Hydrophilidae,Anthomyiidae,Hydrophilidae,Family,Family,2,Young,Young
+Anthomyiidae Lepidostomatidae,Anthomyiidae,Lepidostomatidae,Family,Family,2,Young,Young
+Anthomyiidae Leuctridae,Anthomyiidae,Leuctridae,Family,Family,2,Young,Young
+Anthomyiidae Limnephilidae,Anthomyiidae,Limnephilidae,Family,Family,2,Young,Young
+Anthomyiidae Limoniidae,Anthomyiidae,Limoniidae,Family,Family,2,Young,Young
+Anthomyiidae Lymnaeidae,Anthomyiidae,Lymnaeidae,Family,Family,2,Young,Young
+Anthomyiidae Nemouridae,Anthomyiidae,Nemouridae,Family,Family,2,Young,Young
+Anthomyiidae Philopotamidae,Anthomyiidae,Philopotamidae,Family,Family,2,Young,Young
+Anthomyiidae Physidae,Anthomyiidae,Physidae,Family,Family,2,Young,Young
+Anthomyiidae Plankton,Anthomyiidae,Plankton,Family,Feeding guild,2,Young,
+Anthomyiidae Plants,Anthomyiidae,Plants,Family,Feeding guild,2,Adult,
+Anthomyiidae Psychodidae,Anthomyiidae,Psychodidae,Family,Family,2,Young,Young
+Anthomyiidae Ptychopteridae,Anthomyiidae,Ptychopteridae,Family,Family,2,Young,Young
+Anthomyiidae Scirtidae,Anthomyiidae,Scirtidae,Family,Family,2,Young,Young
+Anthomyiidae Simuliidae,Anthomyiidae,Simuliidae,Family,Family,2,Young,Young
+Anthomyiidae Stratiomyidae,Anthomyiidae,Stratiomyidae,Family,Family,2,Young,Young
+Anthomyiidae Syrphidae,Anthomyiidae,Syrphidae,Family,Family,2,Young,Young
+Anthomyiidae Tipulidae,Anthomyiidae,Tipulidae,Family,Family,2,Young,Young
+Arionidae Plants,Arionidae,Plants,Family,Feeding guild,2,Adult,
+Arrenuridae Candonidae,Arrenuridae,Candonidae,Family,Family,3,Adult,
+Arrenuridae Cyprididae,Arrenuridae,Cyprididae,Family,Family,3,Young,
+Baetidae Algae,Baetidae,Algae,Family,Feeding guild,2,,
+Baetidae Microbes,Baetidae,Microbes,Family,Feeding guild,2,,
+Baetidae Plants,Baetidae,Plants,Family,Feeding guild,2,Young,
+Brachionidae Algae,Brachionidae,Algae,Family,Feeding guild,4,Young and Adult,
+Caenidae Algae,Caenidae,Algae,Family,Feeding guild,2,,
+Caenidae Aquatic detritus,Caenidae,Aquatic detritus,Family,Feeding guild,2,,
+Caenidae Microbes,Caenidae,Microbes,Family,Feeding guild,2,,
+Caenidae Plants,Caenidae,Plants,Family,Feeding guild,2,Young,
+Calliphoridae Annelida,Calliphoridae,Annelida,Family,Feeding guild,80,Young,Young and Adult
+Calliphoridae Calliphoridae,Calliphoridae,Calliphoridae,Family,Family,1,,
+Calliphoridae Plants,Calliphoridae,Plants,Family,Feeding guild,2,Adult,
+Calliphoridae Scavenger,Calliphoridae,Scavenger,Family,Feeding guild,2,,
+Candonidae Aquatic detritus,Candonidae,Aquatic detritus,Family,Feeding guild,5,Young and Adult,
+Cantharidae Annelida,Cantharidae,Annelida,Family,Feeding guild,2; 80,Adult,Young and Adult
+Cantharidae Calliphoridae,Cantharidae,Calliphoridae,Family,Family,1,Young,Young
+Cantharidae Cantharidae,Cantharidae,Cantharidae,Family,Family,1,Young and Adult,Young and Adult
+Cantharidae Chordeumatidae,Cantharidae,Chordeumatidae,Family,Family,1,Young and Adult,Young and Adult
+Cantharidae Chrysomelidae,Cantharidae,Chrysomelidae,Family,Family,1,Adult,Adult
+Cantharidae Cicadellidae,Cantharidae,Cicadellidae,Family,Family,1,,
+Cantharidae Clubionidae,Cantharidae,Clubionidae,Family,Family,1,Young,Young
+Cantharidae Curculionidae,Cantharidae,Curculionidae,Family,Family,1,Young and Adult,Young and Adult
+Cantharidae Elateridae,Cantharidae,Elateridae,Family,Family,1,Young,Young
+Cantharidae Geophilidae,Cantharidae,Geophilidae,Family,Family,1,Young and Adult,Young and Adult
+Cantharidae Lampyridae,Cantharidae,Lampyridae,Family,Family,1,Young,Young
+Cantharidae Lycosidae,Cantharidae,Lycosidae,Family,Family,1,Young,Young
+Cantharidae Lygaeidae,Cantharidae,Lygaeidae,Family,Family,1,,
+Cantharidae Miridae,Cantharidae,Miridae,Family,Family,1,,
+Cantharidae Nitidulidae,Cantharidae,Nitidulidae,Family,Family,1,Adult,Adult
+Cantharidae Plants,Cantharidae,Plants,Family,Feeding guild,2,,
+Cantharidae Rhyparochromidae,Cantharidae,Rhyparochromidae,Family,Family,1,,
+Cantharidae Sarcophagidae,Cantharidae,Sarcophagidae,Family,Family,1,Young,Young
+Cantharidae Scarabaeidae,Cantharidae,Scarabaeidae,Family,Family,1,,
+Cantharidae Staphylinidae,Cantharidae,Staphylinidae,Family,Family,1,Young and Adult,Young and Adult
+Canthocamptidae Plankton,Canthocamptidae,Plankton,Family,Feeding guild,6,Young and Adult,
+Capniidae Algae,Capniidae,Algae,Family,Feeding guild,2,,
+Capniidae Cerambycidae,Capniidae,Cerambycidae,Family,Family,1,,
+Capniidae Plants,Capniidae,Plants,Family,Feeding guild,2,Young,
+Carabidae Annelida,Carabidae,Annelida,Family,Feeding guild,80,Adult,Young and Adult
+Carabidae Arionidae,Carabidae,Arionidae,Family,Family,1; 2,Adult,Adult
+Carabidae Calliphoridae,Carabidae,Calliphoridae,Family,Family,1,Young,Young
+Carabidae Cantharidae,Carabidae,Cantharidae,Family,Family,1,Young and Adult,Young and Adult
+Carabidae Carabidae,Carabidae,Carabidae,Family,Family,1,Young and Adult,Young and Adult
+Carabidae Cerambycidae,Carabidae,Cerambycidae,Family,Family,1,Young,Young
+Carabidae Chordeumatidae,Carabidae,Chordeumatidae,Family,Family,1,Young and Adult,Young and Adult
+Carabidae Chrysomelidae,Carabidae,Chrysomelidae,Family,Family,1; 2,Young and Adult,Young and Adult
+Carabidae Cicadellidae,Carabidae,Cicadellidae,Family,Family,1,,
+Carabidae Clubionidae,Carabidae,Clubionidae,Family,Family,1,Young and Adult,Young and Adult
+Carabidae Coccinellidae,Carabidae,Coccinellidae,Family,Family,1,Adult,Adult
+Carabidae Collembola,Carabidae,Collembola,Family,Feeding guild,65; 73; 74; 84; 88,Adult,Young and Adult
+Carabidae Curculionidae,Carabidae,Curculionidae,Family,Family,1,Young and Adult,Young and Adult
+Carabidae Dytiscidae,Carabidae,Dytiscidae,Family,Family,1,Young,Young
+Carabidae Elateridae,Carabidae,Elateridae,Family,Family,1,Young and Adult,Young and Adult
+Carabidae Erebidae,Carabidae,Erebidae,Family,Family,2,,
+Carabidae Formicidae,Carabidae,Formicidae,Family,Family,2,Adult,
+Carabidae Geometridae,Carabidae,Geometridae,Family,Family,1,,
+Carabidae Geophilidae,Carabidae,Geophilidae,Family,Family,1,Young and Adult,Young and Adult
+Carabidae Lampyridae,Carabidae,Lampyridae,Family,Family,1,Young,Young
+Carabidae Lycosidae,Carabidae,Lycosidae,Family,Family,1,Young and Adult,Young and Adult
+Carabidae Lygaeidae,Carabidae,Lygaeidae,Family,Family,1,,
+Carabidae Lymnaeidae,Carabidae,Lymnaeidae,Family,Family,1,,
+Carabidae Miridae,Carabidae,Miridae,Family,Family,1,,
+Carabidae Nitidulidae,Carabidae,Nitidulidae,Family,Family,1,Adult,Adult
+Carabidae Plants,Carabidae,Plants,Family,Feeding guild,2,Adult,
+Carabidae Rhyparochromidae,Carabidae,Rhyparochromidae,Family,Family,1,,
+Carabidae Sarcophagidae,Carabidae,Sarcophagidae,Family,Family,1,Young,Young
+Carabidae Scarabaeidae,Carabidae,Scarabaeidae,Family,Family,1,Young,Young
+Carabidae Scutigerellidae,Carabidae,Scutigerellidae,Family,Family,93,Young and Adult,Adult
+Carabidae Staphylinidae,Carabidae,Staphylinidae,Family,Family,1,Young and Adult,Young and Adult
+Carabidae Syrphidae,Carabidae,Syrphidae,Family,Family,1,,
+Carabidae Tenthredinidae,Carabidae,Tenthredinidae,Family,Family,2,,Adult
+Cecidomyiidae Cecidomyiidae,Cecidomyiidae,Cecidomyiidae,Family,Family,1,,
+Cecidomyiidae Plants,Cecidomyiidae,Plants,Family,Feeding guild,2,,
+Cerambycidae Cerambycidae,Cerambycidae,Cerambycidae,Family,Family,1; 2,,
+Cerambycidae Fungi,Cerambycidae,Fungi,Family,Feeding guild,2,,
+Cerambycidae Plants,Cerambycidae,Plants,Family,Feeding guild,2,Young and Adult,
+Cerambycidae Terrestrial detritus,Cerambycidae,Terrestrial detritus,Family,Feeding guild,2,,
+Ceratopogonidae Annelida,Ceratopogonidae,Annelida,Family,Feeding guild,2,Young,Young
+Ceratopogonidae Baetidae,Ceratopogonidae,Baetidae,Family,Family,2,Young,Young
+Ceratopogonidae Caenidae,Ceratopogonidae,Caenidae,Family,Family,2,Young,Young
+Ceratopogonidae Capniidae,Ceratopogonidae,Capniidae,Family,Family,2,Young,Young
+Ceratopogonidae Chironomidae,Ceratopogonidae,Chironomidae,Family,Family,2,Young,Young
+Ceratopogonidae Chrysomelidae,Ceratopogonidae,Chrysomelidae,Family,Family,2,Young,Young
+Ceratopogonidae Culicidae,Ceratopogonidae,Culicidae,Family,Family,2,Young,Young
+Ceratopogonidae Curculionidae,Ceratopogonidae,Curculionidae,Family,Family,2,Young,Young
+Ceratopogonidae Dixidae,Ceratopogonidae,Dixidae,Family,Family,2,Young,Young
+Ceratopogonidae Dryopidae,Ceratopogonidae,Dryopidae,Family,Family,2,Young,Young
+Ceratopogonidae Elmidae,Ceratopogonidae,Elmidae,Family,Family,2,Young,Young
+Ceratopogonidae Ephemeridae,Ceratopogonidae,Ephemeridae,Family,Family,2,Young,Young
+Ceratopogonidae Ephydridae,Ceratopogonidae,Ephydridae,Family,Family,2,Young,Young
+Ceratopogonidae Gammaridae,Ceratopogonidae,Gammaridae,Family,Family,2,Young,Young
+Ceratopogonidae Haematophagous,Ceratopogonidae,Haematophagous,Family,Feeding guild,2,Adult,
+Ceratopogonidae Haliplidae,Ceratopogonidae,Haliplidae,Family,Family,2,Young,Young
+Ceratopogonidae Heptageniidae,Ceratopogonidae,Heptageniidae,Family,Family,2,Young,Young
+Ceratopogonidae Hydrophilidae,Ceratopogonidae,Hydrophilidae,Family,Family,2,Young,Young
+Ceratopogonidae Lepidostomatidae,Ceratopogonidae,Lepidostomatidae,Family,Family,2,Young,Young
+Ceratopogonidae Leuctridae,Ceratopogonidae,Leuctridae,Family,Family,2,Young,Young
+Ceratopogonidae Limnephilidae,Ceratopogonidae,Limnephilidae,Family,Family,2,Young,Young
+Ceratopogonidae Limoniidae,Ceratopogonidae,Limoniidae,Family,Family,2,Young,Young
+Ceratopogonidae Lymnaeidae,Ceratopogonidae,Lymnaeidae,Family,Family,2,Young,Young
+Ceratopogonidae Nemouridae,Ceratopogonidae,Nemouridae,Family,Family,2,Young,Young
+Ceratopogonidae Philopotamidae,Ceratopogonidae,Philopotamidae,Family,Family,2,Young,Young
+Ceratopogonidae Physidae,Ceratopogonidae,Physidae,Family,Family,2,Young,Young
+Ceratopogonidae Plankton,Ceratopogonidae,Plankton,Family,Feeding guild,2,Young,
+Ceratopogonidae Plants,Ceratopogonidae,Plants,Family,Feeding guild,2,Adult,
+Ceratopogonidae Psychodidae,Ceratopogonidae,Psychodidae,Family,Family,2,Young,Young
+Ceratopogonidae Ptychopteridae,Ceratopogonidae,Ptychopteridae,Family,Family,2,Young,Young
+Ceratopogonidae Scirtidae,Ceratopogonidae,Scirtidae,Family,Family,2,Young,Young
+Ceratopogonidae Simuliidae,Ceratopogonidae,Simuliidae,Family,Family,2,Young,Young
+Ceratopogonidae Stratiomyidae,Ceratopogonidae,Stratiomyidae,Family,Family,2,Young,Young
+Ceratopogonidae Syrphidae,Ceratopogonidae,Syrphidae,Family,Family,2,Young,Young
+Ceratopogonidae Tipulidae,Ceratopogonidae,Tipulidae,Family,Family,2,Young,Young
+Chaoboridae Annelida,Chaoboridae,Annelida,Family,Feeding guild,2,Young,Young
+Chaoboridae Baetidae,Chaoboridae,Baetidae,Family,Family,2,Young,Young
+Chaoboridae Brachionidae,Chaoboridae,Brachionidae,Family,Family,49,,
+Chaoboridae Caenidae,Chaoboridae,Caenidae,Family,Family,2,Young,Young
+Chaoboridae Capniidae,Chaoboridae,Capniidae,Family,Family,2,Young,Young
+Chaoboridae Chironomidae,Chaoboridae,Chironomidae,Family,Family,2,Young,Young
+Chaoboridae Chrysomelidae,Chaoboridae,Chrysomelidae,Family,Family,2,Young,Young
+Chaoboridae Culicidae,Chaoboridae,Culicidae,Family,Family,2,Young,Young
+Chaoboridae Curculionidae,Chaoboridae,Curculionidae,Family,Family,2,Young,Young
+Chaoboridae Daphniidae,Chaoboridae,Daphniidae,Family,Family,55,Young and Adult,
+Chaoboridae Dixidae,Chaoboridae,Dixidae,Family,Family,2,Young,Young
+Chaoboridae Dryopidae,Chaoboridae,Dryopidae,Family,Family,2,Young,Young
+Chaoboridae Elmidae,Chaoboridae,Elmidae,Family,Family,2,Young,Young
+Chaoboridae Ephemeridae,Chaoboridae,Ephemeridae,Family,Family,2,Young,Young
+Chaoboridae Ephydridae,Chaoboridae,Ephydridae,Family,Family,2,Young,Young
+Chaoboridae Gammaridae,Chaoboridae,Gammaridae,Family,Family,2,Young,Young
+Chaoboridae Haliplidae,Chaoboridae,Haliplidae,Family,Family,2,Young,Young
+Chaoboridae Heptageniidae,Chaoboridae,Heptageniidae,Family,Family,2,Young,Young
+Chaoboridae Hydrophilidae,Chaoboridae,Hydrophilidae,Family,Family,2,Young,Young
+Chaoboridae Lepidostomatidae,Chaoboridae,Lepidostomatidae,Family,Family,2,Young,Young
+Chaoboridae Leuctridae,Chaoboridae,Leuctridae,Family,Family,2,Young,Young
+Chaoboridae Limnephilidae,Chaoboridae,Limnephilidae,Family,Family,2,Young,Young
+Chaoboridae Limoniidae,Chaoboridae,Limoniidae,Family,Family,2,Young,Young
+Chaoboridae Lymnaeidae,Chaoboridae,Lymnaeidae,Family,Family,2,Young,Young
+Chaoboridae Nemouridae,Chaoboridae,Nemouridae,Family,Family,2,Young,Young
+Chaoboridae Philopotamidae,Chaoboridae,Philopotamidae,Family,Family,2,Young,Young
+Chaoboridae Physidae,Chaoboridae,Physidae,Family,Family,2,Young,Young
+Chaoboridae Plankton,Chaoboridae,Plankton,Family,Feeding guild,2,Young,
+Chaoboridae Plants,Chaoboridae,Plants,Family,Feeding guild,2,Adult,
+Chaoboridae Psychodidae,Chaoboridae,Psychodidae,Family,Family,2,Young,Young
+Chaoboridae Ptychopteridae,Chaoboridae,Ptychopteridae,Family,Family,2,Young,Young
+Chaoboridae Scirtidae,Chaoboridae,Scirtidae,Family,Family,2,Young,Young
+Chaoboridae Simuliidae,Chaoboridae,Simuliidae,Family,Family,2,Young,Young
+Chaoboridae Stratiomyidae,Chaoboridae,Stratiomyidae,Family,Family,2,Young,Young
+Chaoboridae Syrphidae,Chaoboridae,Syrphidae,Family,Family,2,Young,Young
+Chaoboridae Tipulidae,Chaoboridae,Tipulidae,Family,Family,2,Young,Young
+Chironomidae Algae,Chironomidae,Algae,Family,Feeding guild,2,Young,
+Chironomidae Aquatic detritus,Chironomidae,Aquatic detritus,Family,Feeding guild,2,,
+Chironomidae Baetidae,Chironomidae,Baetidae,Family,Family,1,,
+Chironomidae Candonidae,Chironomidae,Candonidae,Family,Family,51,Young,
+Chironomidae Canthocamptidae,Chironomidae,Canthocamptidae,Family,Family,52,Young,
+Chironomidae Cerambycidae,Chironomidae,Cerambycidae,Family,Family,1,,
+Chironomidae Chironomidae,Chironomidae,Chironomidae,Family,Family,1,Young,Young
+Chironomidae Chydoridae,Chironomidae,Chydoridae,Family,Family,52,Young,
+Chironomidae Cyprididae,Chironomidae,Cyprididae,Family,Family,51,Young,
+Chironomidae Dasydytidae,Chironomidae,Dasydytidae,Family,Family,57,Young,
+Chironomidae Fungi,Chironomidae,Fungi,Family,Feeding guild,2,,
+Chironomidae Gammaridae,Chironomidae,Gammaridae,Family,Family,1,,
+Chironomidae Heptageniidae,Chironomidae,Heptageniidae,Family,Family,1,,
+Chironomidae Leuctridae,Chironomidae,Leuctridae,Family,Family,1,Young,Young
+Chironomidae Limnephilidae,Chironomidae,Limnephilidae,Family,Family,1,Young,Young
+Chironomidae Limnesiidae,Chironomidae,Limnesiidae,Family,Family,77,Young,Young and Adult
+Chironomidae Muscidae,Chironomidae,Muscidae,Family,Family,1,,
+Chironomidae Nemouridae,Chironomidae,Nemouridae,Family,Family,1,Young,Young
+Chironomidae Plankton,Chironomidae,Plankton,Family,Feeding guild,2,Young,
+Chironomidae Plants,Chironomidae,Plants,Family,Feeding guild,2,Young,Young
+Chironomidae Sialidae,Chironomidae,Sialidae,Family,Family,1,Young,Young
+Chironomidae Simuliidae,Chironomidae,Simuliidae,Family,Family,1,,
+Chironomidae Tipulidae,Chironomidae,Tipulidae,Family,Family,1,Young,Young
+Chloropidae Chloropidae,Chloropidae,Chloropidae,Family,Family,2,,
+Chloropidae Plants,Chloropidae,Plants,Family,Feeding guild,2,,
+Chordeumatidae Terrestrial detritus,Chordeumatidae,Terrestrial detritus,Family,Feeding guild,2,Young and Adult,
+Chrysomelidae Chrysomelidae,Chrysomelidae,Chrysomelidae,Family,Family,1; 2,,
+Chrysomelidae Formicidae,Chrysomelidae,Formicidae,Family,Family,2,Young,
+Chrysomelidae Plants,Chrysomelidae,Plants,Family,Feeding guild,2,Young and Adult,Young
+Chrysomelidae Terrestrial detritus,Chrysomelidae,Terrestrial detritus,Family,Feeding guild,2,Young,
+Chydoridae Algae,Chydoridae,Algae,Family,Feeding guild,7,Young and Adult,
+Chydoridae Aquatic detritus,Chydoridae,Aquatic detritus,Family,Feeding guild,7,Young and Adult,
+Cicadellidae Cicadellidae,Cicadellidae,Cicadellidae,Family,Family,1; 2,,
+Cicadellidae Plants,Cicadellidae,Plants,Family,Feeding guild,2,Young and Adult,
+Clubionidae Agromyzidae,Clubionidae,Agromyzidae,Family,Family,1,,
+Clubionidae Baetidae,Clubionidae,Baetidae,Family,Family,1,,
+Clubionidae Cantharidae,Clubionidae,Cantharidae,Family,Family,1,Young and Adult,Young and Adult
+Clubionidae Carabidae,Clubionidae,Carabidae,Family,Family,1,Adult,Adult
+Clubionidae Cecidomyiidae,Clubionidae,Cecidomyiidae,Family,Family,1,,
+Clubionidae Cerambycidae,Clubionidae,Cerambycidae,Family,Family,1,Young,Young
+Clubionidae Ceratopogonidae,Clubionidae,Ceratopogonidae,Family,Family,1,,
+Clubionidae Chironomidae,Clubionidae,Chironomidae,Family,Family,1,,
+Clubionidae Chloropidae,Clubionidae,Chloropidae,Family,Family,1,,
+Clubionidae Chrysomelidae,Clubionidae,Chrysomelidae,Family,Family,1,,
+Clubionidae Cicadellidae,Clubionidae,Cicadellidae,Family,Family,1,Young,Young
+Clubionidae Clubionidae,Clubionidae,Clubionidae,Family,Family,1,Young and Adult,Young and Adult
+Clubionidae Coccinellidae,Clubionidae,Coccinellidae,Family,Family,1,,
+Clubionidae Curculionidae,Clubionidae,Curculionidae,Family,Family,1,Adult,Adult
+Clubionidae Dolichopodidae,Clubionidae,Dolichopodidae,Family,Family,1,,
+Clubionidae Drosophilidae,Clubionidae,Drosophilidae,Family,Family,1,,
+Clubionidae Ectobiidae,Clubionidae,Ectobiidae,Family,Family,59,Young and Adult,
+Clubionidae Elateridae,Clubionidae,Elateridae,Family,Family,1,Young and Adult,Young and Adult
+Clubionidae Empididae,Clubionidae,Empididae,Family,Family,1,,
+Clubionidae Ephydridae,Clubionidae,Ephydridae,Family,Family,1,,
+Clubionidae Formicidae,Clubionidae,Formicidae,Family,Family,1,,
+Clubionidae Geophilidae,Clubionidae,Geophilidae,Family,Family,1,Adult,Adult
+Clubionidae Hybotidae,Clubionidae,Hybotidae,Family,Family,1,,
+Clubionidae Lampyridae,Clubionidae,Lampyridae,Family,Family,1,Young,Young
+Clubionidae Limoniidae,Clubionidae,Limoniidae,Family,Family,1,,
+Clubionidae Lycosidae,Clubionidae,Lycosidae,Family,Family,1,,
+Clubionidae Lygaeidae,Clubionidae,Lygaeidae,Family,Family,1,,
+Clubionidae Miridae,Clubionidae,Miridae,Family,Family,1,,
+Clubionidae Muscidae,Clubionidae,Muscidae,Family,Family,1,,
+Clubionidae Nitidulidae,Clubionidae,Nitidulidae,Family,Family,1,Adult,Adult
+Clubionidae Phoridae,Clubionidae,Phoridae,Family,Family,1,,
+Clubionidae Psychodidae,Clubionidae,Psychodidae,Family,Family,1,Adult,Adult
+Clubionidae Rhyparochromidae,Clubionidae,Rhyparochromidae,Family,Family,1,,
+Clubionidae Sciaridae,Clubionidae,Sciaridae,Family,Family,1,,
+Clubionidae Sciomyzidae,Clubionidae,Sciomyzidae,Family,Family,1,,
+Clubionidae Staphylinidae,Clubionidae,Staphylinidae,Family,Family,1,Young and Adult,Young and Adult
+Clubionidae Syrphidae,Clubionidae,Syrphidae,Family,Family,1,,
+Coccinellidae Chrysomelidae,Coccinellidae,Chrysomelidae,Family,Family,1; 2,Young,Young
+Coccinellidae Cicadellidae,Coccinellidae,Cicadellidae,Family,Family,1,,
+Coccinellidae Coccinellidae,Coccinellidae,Coccinellidae,Family,Family,1; 2,,
+Coccinellidae Collembola,Coccinellidae,Collembola,Family,Feeding guild,65; 88,Young and Adult,Young and Adult
+Coccinellidae Crambidae,Coccinellidae,Crambidae,Family,Family,53,Adult,Young
+Coccinellidae Elipsocidae,Coccinellidae,Elipsocidae,Family,Family,63,Young and Adult,Egg
+Coccinellidae Geometridae,Coccinellidae,Geometridae,Family,Family,1,,
+Coccinellidae Lygaeidae,Coccinellidae,Lygaeidae,Family,Family,1,,
+Coccinellidae Miridae,Coccinellidae,Miridae,Family,Family,1,,
+Coccinellidae Plants,Coccinellidae,Plants,Family,Feeding guild,2,Young and Adult,
+Coccinellidae Rhyparochromidae,Coccinellidae,Rhyparochromidae,Family,Family,1,,
+Coccinellidae Scarabaeidae,Coccinellidae,Scarabaeidae,Family,Family,1,,
+Coccinellidae Tabanidae,Coccinellidae,Tabanidae,Family,Family,98,Young,Egg
+Coenagrionidae Annelida,Coenagrionidae,Annelida,Family,Feeding guild,2,Young,Young
+Coenagrionidae Anthomyiidae,Coenagrionidae,Anthomyiidae,Family,Family,2,Adult,
+Coenagrionidae Baetidae,Coenagrionidae,Baetidae,Family,Family,1; 2,Young,Young
+Coenagrionidae Caeciliusidae,Coenagrionidae,Caeciliusidae,Family,Family,50,Adult,Adult
+Coenagrionidae Caenidae,Coenagrionidae,Caenidae,Family,Family,2,Young,Young
+Coenagrionidae Calliphoridae,Coenagrionidae,Calliphoridae,Family,Family,1; 2,Adult,
+Coenagrionidae Cantharidae,Coenagrionidae,Cantharidae,Family,Family,1,,
+Coenagrionidae Capniidae,Coenagrionidae,Capniidae,Family,Family,2,Young,Young
+Coenagrionidae Carabidae,Coenagrionidae,Carabidae,Family,Family,2,Adult,
+Coenagrionidae Cecidomyiidae,Coenagrionidae,Cecidomyiidae,Family,Family,1; 2,Adult,
+Coenagrionidae Ceratopogonidae,Coenagrionidae,Ceratopogonidae,Family,Family,1; 2,Young and Adult,Young and Adult
+Coenagrionidae Chironomidae,Coenagrionidae,Chironomidae,Family,Family,1; 2,Young and Adult,Young and Adult
+Coenagrionidae Chloropidae,Coenagrionidae,Chloropidae,Family,Family,1,,
+Coenagrionidae Chrysomelidae,Coenagrionidae,Chrysomelidae,Family,Family,1; 2,Young,Young
+Coenagrionidae Coccinellidae,Coenagrionidae,Coccinellidae,Family,Family,1; 2,Adult,
+Coenagrionidae Coenagrionidae,Coenagrionidae,Coenagrionidae,Family,Family,1,Young and Adult,Young and Adult
+Coenagrionidae Culicidae,Coenagrionidae,Culicidae,Family,Family,2,Young,Young
+Coenagrionidae Curculionidae,Coenagrionidae,Curculionidae,Family,Family,1; 2,Young,Young
+Coenagrionidae Dixidae,Coenagrionidae,Dixidae,Family,Family,2,Young,Young
+Coenagrionidae Dolichopodidae,Coenagrionidae,Dolichopodidae,Family,Family,1; 2,Adult,
+Coenagrionidae Drosophilidae,Coenagrionidae,Drosophilidae,Family,Family,1,,
+Coenagrionidae Dryopidae,Coenagrionidae,Dryopidae,Family,Family,2,Young,Young
+Coenagrionidae Dytiscidae,Coenagrionidae,Dytiscidae,Family,Family,1; 2,Young and Adult,Young and Adult
+Coenagrionidae Elateridae,Coenagrionidae,Elateridae,Family,Family,1,Young,Young
+Coenagrionidae Elmidae,Coenagrionidae,Elmidae,Family,Family,2,Young,Young
+Coenagrionidae Empididae,Coenagrionidae,Empididae,Family,Family,1,,
+Coenagrionidae Ephemeridae,Coenagrionidae,Ephemeridae,Family,Family,2,Young and Adult,Young
+Coenagrionidae Ephydridae,Coenagrionidae,Ephydridae,Family,Family,1; 2,Young and Adult,Young
+Coenagrionidae Erebidae,Coenagrionidae,Erebidae,Family,Family,2,Adult,
+Coenagrionidae Formicidae,Coenagrionidae,Formicidae,Family,Family,2,Adult,
+Coenagrionidae Gammaridae,Coenagrionidae,Gammaridae,Family,Family,1; 2,Young,Young
+Coenagrionidae Geometridae,Coenagrionidae,Geometridae,Family,Family,2,Adult,
+Coenagrionidae Gerridae,Coenagrionidae,Gerridae,Family,Family,1,Young and Adult,Young and Adult
+Coenagrionidae Haliplidae,Coenagrionidae,Haliplidae,Family,Family,1; 2,Young and Adult,Young and Adult
+Coenagrionidae Heptageniidae,Coenagrionidae,Heptageniidae,Family,Family,2,Young and Adult,Young
+Coenagrionidae Hybotidae,Coenagrionidae,Hybotidae,Family,Family,1,,
+Coenagrionidae Hydrophilidae,Coenagrionidae,Hydrophilidae,Family,Family,2,Young,Young
+Coenagrionidae Lepidostomatidae,Coenagrionidae,Lepidostomatidae,Family,Family,2,Young,Young
+Coenagrionidae Leuctridae,Coenagrionidae,Leuctridae,Family,Family,2,Young,Young
+Coenagrionidae Limnephilidae,Coenagrionidae,Limnephilidae,Family,Family,1; 2,Young,Young
+Coenagrionidae Limoniidae,Coenagrionidae,Limoniidae,Family,Family,1; 2,Young,Young
+Coenagrionidae Lymnaeidae,Coenagrionidae,Lymnaeidae,Family,Family,2,Young,Young
+Coenagrionidae Miridae,Coenagrionidae,Miridae,Family,Family,2,Adult,
+Coenagrionidae Muscidae,Coenagrionidae,Muscidae,Family,Family,1; 2,Adult,
+Coenagrionidae Nemouridae,Coenagrionidae,Nemouridae,Family,Family,1; 2,Young,Young
+Coenagrionidae Nitidulidae,Coenagrionidae,Nitidulidae,Family,Family,1,,
+Coenagrionidae Noctuidae,Coenagrionidae,Noctuidae,Family,Family,2,Adult,
+Coenagrionidae Notonectidae,Coenagrionidae,Notonectidae,Family,Family,1,Young and Adult,Young and Adult
+Coenagrionidae Philopotamidae,Coenagrionidae,Philopotamidae,Family,Family,2,Young,Young
+Coenagrionidae Phoridae,Coenagrionidae,Phoridae,Family,Family,1,,
+Coenagrionidae Physidae,Coenagrionidae,Physidae,Family,Family,2,Young,Young
+Coenagrionidae Plankton,Coenagrionidae,Plankton,Family,Feeding guild,2,Young,
+Coenagrionidae Plants,Coenagrionidae,Plants,Family,Feeding guild,2,,
+Coenagrionidae Platypezidae,Coenagrionidae,Platypezidae,Family,Family,2,Adult,
+Coenagrionidae Psychodidae,Coenagrionidae,Psychodidae,Family,Family,1; 2,Young and Adult,Young and Adult
+Coenagrionidae Ptychopteridae,Coenagrionidae,Ptychopteridae,Family,Family,2,Young,Young
+Coenagrionidae Sarcophagidae,Coenagrionidae,Sarcophagidae,Family,Family,1,,
+Coenagrionidae Scarabaeidae,Coenagrionidae,Scarabaeidae,Family,Family,2,Adult,
+Coenagrionidae Sciaridae,Coenagrionidae,Sciaridae,Family,Family,1; 2,Adult,
+Coenagrionidae Sciomyzidae,Coenagrionidae,Sciomyzidae,Family,Family,1; 2,Adult,
+Coenagrionidae Scirtidae,Coenagrionidae,Scirtidae,Family,Family,2,Young,Young
+Coenagrionidae Sialidae,Coenagrionidae,Sialidae,Family,Family,1; 2,Young and Adult,Young
+Coenagrionidae Simuliidae,Coenagrionidae,Simuliidae,Family,Family,2,Young,Young
+Coenagrionidae Staphylinidae,Coenagrionidae,Staphylinidae,Family,Family,2,Adult,
+Coenagrionidae Stratiomyidae,Coenagrionidae,Stratiomyidae,Family,Family,2,Young,Young
+Coenagrionidae Syrphidae,Coenagrionidae,Syrphidae,Family,Family,1; 2,Young,Young
+Coenagrionidae Tephritidae,Coenagrionidae,Tephritidae,Family,Family,2,Adult,
+Coenagrionidae Tipulidae,Coenagrionidae,Tipulidae,Family,Family,1; 2,Young,Young
+Coenagrionidae Tortricidae,Coenagrionidae,Tortricidae,Family,Family,2,Adult,
+Collembola Fungi,Collembola,Fungi,Feeding guild,Feeding guild,17; 22; 23; 24; 31; 34,Young and Adult,
+Collembola Plants,Collembola,Plants,Feeding guild,Feeding guild,17; 33,Young and Adult,
+Collembola Terrestrial detritus,Collembola,Terrestrial detritus,Feeding guild,Feeding guild,12; 32; 33,Young and Adult,
+Corduliidae Agromyzidae,Corduliidae,Agromyzidae,Family,Family,1,,
+Corduliidae Annelida,Corduliidae,Annelida,Family,Feeding guild,81,Young,Young and Adult
+Corduliidae Arrenuridae,Corduliidae,Arrenuridae,Family,Family,48,Young,Young
+Corduliidae Baetidae,Corduliidae,Baetidae,Family,Family,1,,
+Corduliidae Caenidae,Corduliidae,Caenidae,Family,Family,1,,
+Corduliidae Calliphoridae,Corduliidae,Calliphoridae,Family,Family,1,,
+Corduliidae Cantharidae,Corduliidae,Cantharidae,Family,Family,1,,
+Corduliidae Cecidomyiidae,Corduliidae,Cecidomyiidae,Family,Family,1,,
+Corduliidae Ceratopogonidae,Corduliidae,Ceratopogonidae,Family,Family,1,,
+Corduliidae Chironomidae,Corduliidae,Chironomidae,Family,Family,1,,
+Corduliidae Chloropidae,Corduliidae,Chloropidae,Family,Family,1,,
+Corduliidae Chrysomelidae,Corduliidae,Chrysomelidae,Family,Family,1,,
+Corduliidae Coccinellidae,Corduliidae,Coccinellidae,Family,Family,1,,
+Corduliidae Coenagrionidae,Corduliidae,Coenagrionidae,Family,Family,1,,
+Corduliidae Curculionidae,Corduliidae,Curculionidae,Family,Family,1,,
+Corduliidae Dolichopodidae,Corduliidae,Dolichopodidae,Family,Family,1,,
+Corduliidae Drosophilidae,Corduliidae,Drosophilidae,Family,Family,1,,
+Corduliidae Dytiscidae,Corduliidae,Dytiscidae,Family,Family,1,,
+Corduliidae Elateridae,Corduliidae,Elateridae,Family,Family,1,Young,Young
+Corduliidae Empididae,Corduliidae,Empididae,Family,Family,1,,
+Corduliidae Ephydridae,Corduliidae,Ephydridae,Family,Family,1,,
+Corduliidae Haliplidae,Corduliidae,Haliplidae,Family,Family,1,,
+Corduliidae Hepialidae,Corduliidae,Hepialidae,Family,Family,70,Adult,Adult
+Corduliidae Hybotidae,Corduliidae,Hybotidae,Family,Family,1,,
+Corduliidae Lauxaniidae,Corduliidae,Lauxaniidae,Family,Family,76,Adult,
+Corduliidae Limnephilidae,Corduliidae,Limnephilidae,Family,Family,1,,
+Corduliidae Limoniidae,Corduliidae,Limoniidae,Family,Family,1,,
+Corduliidae Lonchopteridae,Corduliidae,Lonchopteridae,Family,Family,79,Adult,Adult
+Corduliidae Lymnaeidae,Corduliidae,Lymnaeidae,Family,Family,1,,
+Corduliidae Muscidae,Corduliidae,Muscidae,Family,Family,1,,
+Corduliidae Nitidulidae,Corduliidae,Nitidulidae,Family,Family,1,,
+Corduliidae Noctuidae,Corduliidae,Noctuidae,Family,Family,1,,
+Corduliidae Phoridae,Corduliidae,Phoridae,Family,Family,1,,
+Corduliidae Plants,Corduliidae,Plants,Family,Feeding guild,2,,
+Corduliidae Psychodidae,Corduliidae,Psychodidae,Family,Family,1,Adult,Adult
+Corduliidae Sarcophagidae,Corduliidae,Sarcophagidae,Family,Family,1,,
+Corduliidae Sciaridae,Corduliidae,Sciaridae,Family,Family,1,,
+Corduliidae Sciomyzidae,Corduliidae,Sciomyzidae,Family,Family,1,,
+Corduliidae Syrphidae,Corduliidae,Syrphidae,Family,Family,1,,
+Corduliidae Tipulidae,Corduliidae,Tipulidae,Family,Family,1,,
+Crambidae Limoniidae,Crambidae,Limoniidae,Family,Family,1,,
+Crambidae Plants,Crambidae,Plants,Family,Feeding guild,2,Young and Adult,
+Culicidae Aquatic detritus,Culicidae,Aquatic detritus,Family,Feeding guild,2,Young,
+Culicidae Candonidae,Culicidae,Candonidae,Family,Family,51,Young,
+Culicidae Culicidae,Culicidae,Culicidae,Family,Family,1,Young,Young
+Culicidae Cyprididae,Culicidae,Cyprididae,Family,Family,51,Young,
+Culicidae Haematophagous,Culicidae,Haematophagous,Family,Feeding guild,2,Adult,
+Culicidae Plankton,Culicidae,Plankton,Family,Feeding guild,2,Young,
+Culicidae Plants,Culicidae,Plants,Family,Feeding guild,2,Young and Adult,Young
+Curculionidae Curculionidae,Curculionidae,Curculionidae,Family,Family,1; 2,,
+Curculionidae Plants,Curculionidae,Plants,Family,Feeding guild,2,Young and Adult,Young
+Curculionidae Tenthredinidae,Curculionidae,Tenthredinidae,Family,Family,1; 2,Young,Young
+Curculionidae Terrestrial detritus,Curculionidae,Terrestrial detritus,Family,Feeding guild,2,Young,
+Cyclopidae Algae,Cyclopidae,Algae,Family,Feeding guild,8,Young and Adult,
+Cyclopidae Brachionidae,Cyclopidae,Brachionidae,Family,Family,49,,
+Cyclopidae Chironomidae,Cyclopidae,Chironomidae,Family,Family,8,Young and Adult,
+Cyprididae Algae,Cyprididae,Algae,Family,Feeding guild,9,Young and Adult,
+Cyprididae Aquatic detritus,Cyprididae,Aquatic detritus,Family,Feeding guild,9,Young and Adult,
+Daphniidae Algae,Daphniidae,Algae,Family,Feeding guild,10,Young and Adult,
+Daphniidae Aquatic detritus,Daphniidae,Aquatic detritus,Family,Feeding guild,10,Young and Adult,
+Darwinulidae Algae,Darwinulidae,Algae,Family,Feeding guild,9,Young and Adult,
+Darwinulidae Aquatic detritus,Darwinulidae,Aquatic detritus,Family,Feeding guild,9,Young and Adult,
+Dasydytidae Aquatic detritus,Dasydytidae,Aquatic detritus,Family,Feeding guild,11,Young and Adult,
+Dixidae Aquatic detritus,Dixidae,Aquatic detritus,Family,Feeding guild,2,Young,
+Dixidae Plankton,Dixidae,Plankton,Family,Feeding guild,2,Young,
+Dixidae Plants,Dixidae,Plants,Family,Feeding guild,2,Young,Young
+Dolichopodidae Annelida,Dolichopodidae,Annelida,Family,Feeding guild,2; 64,Young and Adult,Young and Adult
+Dolichopodidae Baetidae,Dolichopodidae,Baetidae,Family,Family,2,Young,Young
+Dolichopodidae Caenidae,Dolichopodidae,Caenidae,Family,Family,2,Young,Young
+Dolichopodidae Capniidae,Dolichopodidae,Capniidae,Family,Family,2,Young,Young
+Dolichopodidae Ceratopogonidae,Dolichopodidae,Ceratopogonidae,Family,Family,1,,
+Dolichopodidae Chironomidae,Dolichopodidae,Chironomidae,Family,Family,1; 2,Young,Young
+Dolichopodidae Chloropidae,Dolichopodidae,Chloropidae,Family,Family,1,,
+Dolichopodidae Chrysomelidae,Dolichopodidae,Chrysomelidae,Family,Family,2,Young,Young
+Dolichopodidae Cicadellidae,Dolichopodidae,Cicadellidae,Family,Family,1,Young,Young
+Dolichopodidae Collembola,Dolichopodidae,Collembola,Family,Feeding guild,2,Adult,Adult
+Dolichopodidae Culicidae,Dolichopodidae,Culicidae,Family,Family,2,Young,Young
+Dolichopodidae Curculionidae,Dolichopodidae,Curculionidae,Family,Family,2,Young,Young
+Dolichopodidae Dixidae,Dolichopodidae,Dixidae,Family,Family,2,Young,Young
+Dolichopodidae Dolichopodidae,Dolichopodidae,Dolichopodidae,Family,Family,1,,
+Dolichopodidae Drosophilidae,Dolichopodidae,Drosophilidae,Family,Family,1,,
+Dolichopodidae Dryopidae,Dolichopodidae,Dryopidae,Family,Family,2,Young,Young
+Dolichopodidae Elmidae,Dolichopodidae,Elmidae,Family,Family,2,Young,Young
+Dolichopodidae Empididae,Dolichopodidae,Empididae,Family,Family,1,,
+Dolichopodidae Ephemeridae,Dolichopodidae,Ephemeridae,Family,Family,2,Young,Young
+Dolichopodidae Ephydridae,Dolichopodidae,Ephydridae,Family,Family,1; 2,Young,Young
+Dolichopodidae Formicidae,Dolichopodidae,Formicidae,Family,Family,1,,
+Dolichopodidae Gammaridae,Dolichopodidae,Gammaridae,Family,Family,2,Young,Young
+Dolichopodidae Haliplidae,Dolichopodidae,Haliplidae,Family,Family,2,Young,Young
+Dolichopodidae Heptageniidae,Dolichopodidae,Heptageniidae,Family,Family,2,Young,Young
+Dolichopodidae Hybotidae,Dolichopodidae,Hybotidae,Family,Family,1,,
+Dolichopodidae Hydrophilidae,Dolichopodidae,Hydrophilidae,Family,Family,2,Young,Young
+Dolichopodidae Lepidostomatidae,Dolichopodidae,Lepidostomatidae,Family,Family,2,Young,Young
+Dolichopodidae Leuctridae,Dolichopodidae,Leuctridae,Family,Family,2,Young,Young
+Dolichopodidae Limnephilidae,Dolichopodidae,Limnephilidae,Family,Family,2,Young,Young
+Dolichopodidae Limoniidae,Dolichopodidae,Limoniidae,Family,Family,2,Young,Young
+Dolichopodidae Lymnaeidae,Dolichopodidae,Lymnaeidae,Family,Family,2,Young,Young
+Dolichopodidae Muscidae,Dolichopodidae,Muscidae,Family,Family,1,,
+Dolichopodidae Nemouridae,Dolichopodidae,Nemouridae,Family,Family,2,Young,Young
+Dolichopodidae Philopotamidae,Dolichopodidae,Philopotamidae,Family,Family,2,Young,Young
+Dolichopodidae Phoridae,Dolichopodidae,Phoridae,Family,Family,1,,
+Dolichopodidae Physidae,Dolichopodidae,Physidae,Family,Family,2,Young,Young
+Dolichopodidae Plankton,Dolichopodidae,Plankton,Family,Feeding guild,2,Young,
+Dolichopodidae Plants,Dolichopodidae,Plants,Family,Feeding guild,2,Adult,
+Dolichopodidae Psychodidae,Dolichopodidae,Psychodidae,Family,Family,1; 2,Young and Adult,Young and Adult
+Dolichopodidae Ptychopteridae,Dolichopodidae,Ptychopteridae,Family,Family,2,Young,Young
+Dolichopodidae Sciaridae,Dolichopodidae,Sciaridae,Family,Family,1,,
+Dolichopodidae Scirtidae,Dolichopodidae,Scirtidae,Family,Family,2,Young,Young
+Dolichopodidae Simuliidae,Dolichopodidae,Simuliidae,Family,Family,2,Young,Young
+Dolichopodidae Stratiomyidae,Dolichopodidae,Stratiomyidae,Family,Family,2,Young,Young
+Dolichopodidae Syrphidae,Dolichopodidae,Syrphidae,Family,Family,2,Young,Young
+Dolichopodidae Tipulidae,Dolichopodidae,Tipulidae,Family,Family,2,Young,Young
+Drosophilidae Plants,Drosophilidae,Plants,Family,Feeding guild,2,Adult,
+Dryopidae Plankton,Dryopidae,Plankton,Family,Feeding guild,2,Young,
+Dryopidae Plants,Dryopidae,Plants,Family,Feeding guild,2,Young and Adult,Young
+Dytiscidae Aeshnidae,Dytiscidae,Aeshnidae,Family,Family,1,Young,Young
+Dytiscidae Annelida,Dytiscidae,Annelida,Family,Feeding guild,2,Young,Young
+Dytiscidae Baetidae,Dytiscidae,Baetidae,Family,Family,1; 2,Young,Young
+Dytiscidae Caenidae,Dytiscidae,Caenidae,Family,Family,1; 2,Young,Young
+Dytiscidae Candonidae,Dytiscidae,Candonidae,Family,Family,51,Young and Adult,
+Dytiscidae Cantharidae,Dytiscidae,Cantharidae,Family,Family,1,Young,Young
+Dytiscidae Capniidae,Dytiscidae,Capniidae,Family,Family,2,Young,Young
+Dytiscidae Ceratopogonidae,Dytiscidae,Ceratopogonidae,Family,Family,1,Young,Young
+Dytiscidae Chironomidae,Dytiscidae,Chironomidae,Family,Family,1; 2,Young,Young
+Dytiscidae Chordeumatidae,Dytiscidae,Chordeumatidae,Family,Family,1,Young and Adult,Young and Adult
+Dytiscidae Chrysomelidae,Dytiscidae,Chrysomelidae,Family,Family,2,Young,Young
+Dytiscidae Clubionidae,Dytiscidae,Clubionidae,Family,Family,1,Young,Young
+Dytiscidae Coenagrionidae,Dytiscidae,Coenagrionidae,Family,Family,1,Young,Young
+Dytiscidae Corduliidae,Dytiscidae,Corduliidae,Family,Family,1,,
+Dytiscidae Culicidae,Dytiscidae,Culicidae,Family,Family,1; 2,Young,Young
+Dytiscidae Curculionidae,Dytiscidae,Curculionidae,Family,Family,1; 2,Young and Adult,Young and Adult
+Dytiscidae Dixidae,Dytiscidae,Dixidae,Family,Family,2,Young,Young
+Dytiscidae Dryopidae,Dytiscidae,Dryopidae,Family,Family,2,Young,Young
+Dytiscidae Dytiscidae,Dytiscidae,Dytiscidae,Family,Family,1,Young and Adult,Young and Adult
+Dytiscidae Elateridae,Dytiscidae,Elateridae,Family,Family,1,Young,Young
+Dytiscidae Elmidae,Dytiscidae,Elmidae,Family,Family,2,Young,Young
+Dytiscidae Ephemeridae,Dytiscidae,Ephemeridae,Family,Family,2,Young,Young
+Dytiscidae Ephydridae,Dytiscidae,Ephydridae,Family,Family,2,Young,Young
+Dytiscidae Gammaridae,Dytiscidae,Gammaridae,Family,Family,1; 2,Young,Young
+Dytiscidae Geophilidae,Dytiscidae,Geophilidae,Family,Family,1,Young and Adult,Young and Adult
+Dytiscidae Gerridae,Dytiscidae,Gerridae,Family,Family,1,,
+Dytiscidae Haliplidae,Dytiscidae,Haliplidae,Family,Family,1; 2,Young,Young
+Dytiscidae Heptageniidae,Dytiscidae,Heptageniidae,Family,Family,1; 2,Young,Young
+Dytiscidae Hydrophilidae,Dytiscidae,Hydrophilidae,Family,Family,2,Young,Young
+Dytiscidae Lepidostomatidae,Dytiscidae,Lepidostomatidae,Family,Family,2,Young,Young
+Dytiscidae Leuctridae,Dytiscidae,Leuctridae,Family,Family,2,Young,Young
+Dytiscidae Libellulidae,Dytiscidae,Libellulidae,Family,Family,1,Young,Young
+Dytiscidae Limnephilidae,Dytiscidae,Limnephilidae,Family,Family,1; 2,Young,Young
+Dytiscidae Limoniidae,Dytiscidae,Limoniidae,Family,Family,1; 2,Young,Young
+Dytiscidae Lymnaeidae,Dytiscidae,Lymnaeidae,Family,Family,1; 2,Young,Young
+Dytiscidae Nemouridae,Dytiscidae,Nemouridae,Family,Family,1; 2,Young,Young
+Dytiscidae Nepidae,Dytiscidae,Nepidae,Family,Family,1,,
+Dytiscidae Notonectidae,Dytiscidae,Notonectidae,Family,Family,1,Young and Adult,Young and Adult
+Dytiscidae Philopotamidae,Dytiscidae,Philopotamidae,Family,Family,2,Young,Young
+Dytiscidae Physidae,Dytiscidae,Physidae,Family,Family,2,Young,Young
+Dytiscidae Plankton,Dytiscidae,Plankton,Family,Feeding guild,2,Young,
+Dytiscidae Plants,Dytiscidae,Plants,Family,Feeding guild,2,,
+Dytiscidae Psychodidae,Dytiscidae,Psychodidae,Family,Family,1; 2,Young,Young
+Dytiscidae Ptychopteridae,Dytiscidae,Ptychopteridae,Family,Family,2,Young,Young
+Dytiscidae Scirtidae,Dytiscidae,Scirtidae,Family,Family,2,Young,Young
+Dytiscidae Sialidae,Dytiscidae,Sialidae,Family,Family,1,Young,Young
+Dytiscidae Simuliidae,Dytiscidae,Simuliidae,Family,Family,2,Young,Young
+Dytiscidae Staphylinidae,Dytiscidae,Staphylinidae,Family,Family,1,Young and Adult,Young and Adult
+Dytiscidae Stratiomyidae,Dytiscidae,Stratiomyidae,Family,Family,1; 2,Young,Young
+Dytiscidae Syrphidae,Dytiscidae,Syrphidae,Family,Family,2,Young,Young
+Dytiscidae Tipulidae,Dytiscidae,Tipulidae,Family,Family,2,Young,Young
+Ectobiidae Plants,Ectobiidae,Plants,Family,Feeding guild,2,,
+Ectobiidae Terrestrial detritus,Ectobiidae,Terrestrial detritus,Family,Feeding guild,2,,
+Ectopsocidae Algae,Ectopsocidae,Algae,Family,Feeding guild,13,Young and Adult,
+Ectopsocidae Aquatic detritus,Ectopsocidae,Aquatic detritus,Family,Feeding guild,13,Young and Adult,
+Ectopsocidae Terrestrial detritus,Ectopsocidae,Terrestrial detritus,Family,Feeding guild,13,Young and Adult,
+Elateridae Cantharidae,Elateridae,Cantharidae,Family,Family,1,Young,Young
+Elateridae Carabidae,Elateridae,Carabidae,Family,Family,1,Adult,Adult
+Elateridae Cerambycidae,Elateridae,Cerambycidae,Family,Family,2,Young,
+Elateridae Chordeumatidae,Elateridae,Chordeumatidae,Family,Family,1,Young and Adult,Young and Adult
+Elateridae Chrysomelidae,Elateridae,Chrysomelidae,Family,Family,1,Adult,Adult
+Elateridae Clubionidae,Elateridae,Clubionidae,Family,Family,1,Young,Young
+Elateridae Coccinellidae,Elateridae,Coccinellidae,Family,Family,1,,
+Elateridae Curculionidae,Elateridae,Curculionidae,Family,Family,1,Young,Young
+Elateridae Elateridae,Elateridae,Elateridae,Family,Family,1,Young,Young
+Elateridae Lampyridae,Elateridae,Lampyridae,Family,Family,1,Young,Young
+Elateridae Mycetophagidae,Elateridae,Mycetophagidae,Family,Family,2,,
+Elateridae Nitidulidae,Elateridae,Nitidulidae,Family,Family,1,Adult,Adult
+Elateridae Plants,Elateridae,Plants,Family,Feeding guild,2,Young and Adult,
+Elateridae Rhyparochromidae,Elateridae,Rhyparochromidae,Family,Family,1,,
+Elateridae Scarabaeidae,Elateridae,Scarabaeidae,Family,Family,1,,
+Elateridae Staphylinidae,Elateridae,Staphylinidae,Family,Family,1,Young and Adult,Young and Adult
+Elipsocidae Terrestrial detritus,Elipsocidae,Terrestrial detritus,Family,Feeding guild,14,Young and Adult,
+Ellobiidae Terrestrial detritus,Ellobiidae,Terrestrial detritus,Family,Feeding guild,15,Young and Adult,
+Elmidae Algae,Elmidae,Algae,Family,Feeding guild,2,Young and Adult,
+Elmidae Microbes,Elmidae,Microbes,Family,Feeding guild,2,,
+Elmidae Plankton,Elmidae,Plankton,Family,Feeding guild,2,Young,
+Elmidae Plants,Elmidae,Plants,Family,Feeding guild,2,Young,Young
+Empididae Annelida,Empididae,Annelida,Family,Feeding guild,2,Young,Young
+Empididae Baetidae,Empididae,Baetidae,Family,Family,2,Young,Young
+Empididae Caenidae,Empididae,Caenidae,Family,Family,2,Young,Young
+Empididae Capniidae,Empididae,Capniidae,Family,Family,2,Young,Young
+Empididae Cecidomyiidae,Empididae,Cecidomyiidae,Family,Family,1,,
+Empididae Ceratopogonidae,Empididae,Ceratopogonidae,Family,Family,1,,
+Empididae Chironomidae,Empididae,Chironomidae,Family,Family,2,Young,Young
+Empididae Chloropidae,Empididae,Chloropidae,Family,Family,1,,
+Empididae Chrysomelidae,Empididae,Chrysomelidae,Family,Family,2,Young,Young
+Empididae Culicidae,Empididae,Culicidae,Family,Family,2,Young,Young
+Empididae Curculionidae,Empididae,Curculionidae,Family,Family,2,Young,Young
+Empididae Dixidae,Empididae,Dixidae,Family,Family,2,Young,Young
+Empididae Dolichopodidae,Empididae,Dolichopodidae,Family,Family,1,,
+Empididae Drosophilidae,Empididae,Drosophilidae,Family,Family,1,,
+Empididae Dryopidae,Empididae,Dryopidae,Family,Family,2,Young,Young
+Empididae Elmidae,Empididae,Elmidae,Family,Family,2,Young,Young
+Empididae Ephemeridae,Empididae,Ephemeridae,Family,Family,2,Young,Young
+Empididae Ephydridae,Empididae,Ephydridae,Family,Family,1; 2,Young,Young
+Empididae Gammaridae,Empididae,Gammaridae,Family,Family,2,Young,Young
+Empididae Haliplidae,Empididae,Haliplidae,Family,Family,2,Young,Young
+Empididae Heptageniidae,Empididae,Heptageniidae,Family,Family,2,Young,Young
+Empididae Hybotidae,Empididae,Hybotidae,Family,Family,1,,
+Empididae Hydrophilidae,Empididae,Hydrophilidae,Family,Family,2,Young,Young
+Empididae Lepidostomatidae,Empididae,Lepidostomatidae,Family,Family,2,Young,Young
+Empididae Leuctridae,Empididae,Leuctridae,Family,Family,2,Young,Young
+Empididae Limnephilidae,Empididae,Limnephilidae,Family,Family,2,Young,Young
+Empididae Limoniidae,Empididae,Limoniidae,Family,Family,2,Young,Young
+Empididae Lymnaeidae,Empididae,Lymnaeidae,Family,Family,2,Young,Young
+Empididae Nemouridae,Empididae,Nemouridae,Family,Family,2,Young,Young
+Empididae Philopotamidae,Empididae,Philopotamidae,Family,Family,2,Young,Young
+Empididae Phoridae,Empididae,Phoridae,Family,Family,1,,
+Empididae Physidae,Empididae,Physidae,Family,Family,2,Young,Young
+Empididae Plankton,Empididae,Plankton,Family,Feeding guild,2,Young,
+Empididae Plants,Empididae,Plants,Family,Feeding guild,2,,
+Empididae Psychodidae,Empididae,Psychodidae,Family,Family,1; 2,Young and Adult,Young and Adult
+Empididae Ptychopteridae,Empididae,Ptychopteridae,Family,Family,2,Young,Young
+Empididae Sciaridae,Empididae,Sciaridae,Family,Family,1,,
+Empididae Scirtidae,Empididae,Scirtidae,Family,Family,2,Young,Young
+Empididae Simuliidae,Empididae,Simuliidae,Family,Family,2,Young,Young
+Empididae Stratiomyidae,Empididae,Stratiomyidae,Family,Family,2,Young,Young
+Empididae Syrphidae,Empididae,Syrphidae,Family,Family,2,Young,Young
+Empididae Tipulidae,Empididae,Tipulidae,Family,Family,2,Young,Young
+Ephemeridae Plants,Ephemeridae,Plants,Family,Feeding guild,2,Young,
+Ephydridae Algae,Ephydridae,Algae,Family,Feeding guild,2,Adult,
+Ephydridae Aquatic detritus,Ephydridae,Aquatic detritus,Family,Feeding guild,2,Young,
+Ephydridae Cecidomyiidae,Ephydridae,Cecidomyiidae,Family,Family,1,,
+Ephydridae Ceratopogonidae,Ephydridae,Ceratopogonidae,Family,Family,1,,
+Ephydridae Chironomidae,Ephydridae,Chironomidae,Family,Family,2,Young,Young
+Ephydridae Hybotidae,Ephydridae,Hybotidae,Family,Family,1,,
+Ephydridae Microbes,Ephydridae,Microbes,Family,Feeding guild,2,Adult,
+Ephydridae Plants,Ephydridae,Plants,Family,Feeding guild,2,Young,Young
+Ephydridae Psychodidae,Ephydridae,Psychodidae,Family,Family,1,Adult,Adult
+Erebidae Agromyzidae,Erebidae,Agromyzidae,Family,Family,1,,
+Erebidae Plants,Erebidae,Plants,Family,Feeding guild,2,Young and Adult,
+Eurycercidae Algae,Eurycercidae,Algae,Family,Feeding guild,19,Adult,
+Eurycercidae Aquatic detritus,Eurycercidae,Aquatic detritus,Family,Feeding guild,19,Adult,
+Fanniidae Aquatic detritus,Fanniidae,Aquatic detritus,Family,Feeding guild,2,,
+Fanniidae Fungi,Fanniidae,Fungi,Family,Feeding guild,2,Young,
+Fanniidae Scavenger,Fanniidae,Scavenger,Family,Feeding guild,2,,
+Formicidae Carabidae,Formicidae,Carabidae,Family,Family,1,,
+Formicidae Cerambycidae,Formicidae,Cerambycidae,Family,Family,1,Young,Young
+Formicidae Chironomidae,Formicidae,Chironomidae,Family,Family,1,Young,Young
+Formicidae Chrysomelidae,Formicidae,Chrysomelidae,Family,Family,1,Young,Young
+Formicidae Cicadellidae,Formicidae,Cicadellidae,Family,Family,1,Young,Young
+Formicidae Clubionidae,Formicidae,Clubionidae,Family,Family,1,Young,Young
+Formicidae Coccinellidae,Formicidae,Coccinellidae,Family,Family,1,,
+Formicidae Collembola,Formicidae,Collembola,Family,Feeding guild,17; 65; 87,Adult,Young and Adult
+Formicidae Dytiscidae,Formicidae,Dytiscidae,Family,Family,1,,
+Formicidae Erebidae,Formicidae,Erebidae,Family,Family,2,,
+Formicidae Fanniidae,Formicidae,Fanniidae,Family,Family,68,Adult,Young and Adult
+Formicidae Formicidae,Formicidae,Formicidae,Family,Family,1; 2,Young,Egg and Young
+Formicidae Geometridae,Formicidae,Geometridae,Family,Family,1,,
+Formicidae Hemerobiidae,Formicidae,Hemerobiidae,Family,Family,69,Adult,Egg and Young
+Formicidae Lycosidae,Formicidae,Lycosidae,Family,Family,1,Young,Young
+Formicidae Muscidae,Formicidae,Muscidae,Family,Family,1,,
+Formicidae Nitidulidae,Formicidae,Nitidulidae,Family,Family,1,,
+Formicidae Noctuidae,Formicidae,Noctuidae,Family,Family,2,,
+Formicidae Peripsocidae,Formicidae,Peripsocidae,Family,Family,89,Adult,Young
+Formicidae Plants,Formicidae,Plants,Family,Feeding guild,2,,
+Formicidae Psychodidae,Formicidae,Psychodidae,Family,Family,1,Young and Adult,Young and Adult
+Formicidae Sepsidae,Formicidae,Sepsidae,Family,Family,94,Adult,Young
+Formicidae Staphylinidae,Formicidae,Staphylinidae,Family,Family,1,Young,Young
+Formicidae Tephritidae,Formicidae,Tephritidae,Family,Family,2,,
+Gammaridae Algae,Gammaridae,Algae,Family,Feeding guild,2,,
+Gammaridae Aquatic detritus,Gammaridae,Aquatic detritus,Family,Feeding guild,2,Young,
+Gammaridae Baetidae,Gammaridae,Baetidae,Family,Family,1; 2,Young,Young
+Gammaridae Caenidae,Gammaridae,Caenidae,Family,Family,2,Young,Young
+Gammaridae Capniidae,Gammaridae,Capniidae,Family,Family,2,Young,Young
+Gammaridae Chironomidae,Gammaridae,Chironomidae,Family,Family,1; 2,Young,Young
+Gammaridae Chrysomelidae,Gammaridae,Chrysomelidae,Family,Family,2,Young,Young
+Gammaridae Culicidae,Gammaridae,Culicidae,Family,Family,2,Young,Young
+Gammaridae Curculionidae,Gammaridae,Curculionidae,Family,Family,2,Young,Young
+Gammaridae Dixidae,Gammaridae,Dixidae,Family,Family,2,Young,Young
+Gammaridae Dryopidae,Gammaridae,Dryopidae,Family,Family,2,Young,Young
+Gammaridae Elmidae,Gammaridae,Elmidae,Family,Family,2,Young,Young
+Gammaridae Ephemeridae,Gammaridae,Ephemeridae,Family,Family,2,Young,Young
+Gammaridae Ephydridae,Gammaridae,Ephydridae,Family,Family,2,Young,Young
+Gammaridae Fungi,Gammaridae,Fungi,Family,Feeding guild,2,,
+Gammaridae Gammaridae,Gammaridae,Gammaridae,Family,Family,1; 2,Young,Young
+Gammaridae Haliplidae,Gammaridae,Haliplidae,Family,Family,2,Young,Young
+Gammaridae Heptageniidae,Gammaridae,Heptageniidae,Family,Family,2,Young,Young
+Gammaridae Hydrophilidae,Gammaridae,Hydrophilidae,Family,Family,2,Young,Young
+Gammaridae Lepidostomatidae,Gammaridae,Lepidostomatidae,Family,Family,2,Young,Young
+Gammaridae Leuctridae,Gammaridae,Leuctridae,Family,Family,1; 2,Young,Young
+Gammaridae Limnephilidae,Gammaridae,Limnephilidae,Family,Family,2,Young,Young
+Gammaridae Limoniidae,Gammaridae,Limoniidae,Family,Family,2,Young,Young
+Gammaridae Lymnaeidae,Gammaridae,Lymnaeidae,Family,Family,2,Young,Young
+Gammaridae Microbes,Gammaridae,Microbes,Family,Feeding guild,2,,
+Gammaridae Nemouridae,Gammaridae,Nemouridae,Family,Family,2,Young,Young
+Gammaridae Philopotamidae,Gammaridae,Philopotamidae,Family,Family,2,Young,Young
+Gammaridae Physidae,Gammaridae,Physidae,Family,Family,2,Young,Young
+Gammaridae Plants,Gammaridae,Plants,Family,Feeding guild,2,Young,Young
+Gammaridae Psychodidae,Gammaridae,Psychodidae,Family,Family,2,Young,Young
+Gammaridae Ptychopteridae,Gammaridae,Ptychopteridae,Family,Family,2,Young,Young
+Gammaridae Scavenger,Gammaridae,Scavenger,Family,Feeding guild,2,,
+Gammaridae Scirtidae,Gammaridae,Scirtidae,Family,Family,2,Young,Young
+Gammaridae Simuliidae,Gammaridae,Simuliidae,Family,Family,1; 2,Young,Young
+Gammaridae Stratiomyidae,Gammaridae,Stratiomyidae,Family,Family,2,Young,Young
+Gammaridae Syrphidae,Gammaridae,Syrphidae,Family,Family,2,Young,Young
+Gammaridae Tipulidae,Gammaridae,Tipulidae,Family,Family,2,Young,Young
+Geometridae Agromyzidae,Geometridae,Agromyzidae,Family,Family,1,,
+Geometridae Plants,Geometridae,Plants,Family,Feeding guild,2,Young and Adult,
+Geometridae Tenthredinidae,Geometridae,Tenthredinidae,Family,Family,1,,
+Geophilidae Annelida,Geophilidae,Annelida,Family,Feeding guild,2,,
+Geophilidae Cantharidae,Geophilidae,Cantharidae,Family,Family,1,Young and Adult,Young and Adult
+Geophilidae Carabidae,Geophilidae,Carabidae,Family,Family,1,Young and Adult,Young and Adult
+Geophilidae Chordeumatidae,Geophilidae,Chordeumatidae,Family,Family,1,Young and Adult,Young and Adult
+Geophilidae Chrysomelidae,Geophilidae,Chrysomelidae,Family,Family,1,Adult,Adult
+Geophilidae Clubionidae,Geophilidae,Clubionidae,Family,Family,1,Young and Adult,Young and Adult
+Geophilidae Coccinellidae,Geophilidae,Coccinellidae,Family,Family,1,Adult,Adult
+Geophilidae Curculionidae,Geophilidae,Curculionidae,Family,Family,1,Young and Adult,Young and Adult
+Geophilidae Dytiscidae,Geophilidae,Dytiscidae,Family,Family,1,Young,Young
+Geophilidae Elateridae,Geophilidae,Elateridae,Family,Family,1,Young and Adult,Young and Adult
+Geophilidae Geophilidae,Geophilidae,Geophilidae,Family,Family,1,Young and Adult,Young and Adult
+Geophilidae Isopoda,Geophilidae,Isopoda,Family,Feeding guild,91,Young and Adult,Adult
+Geophilidae Lampyridae,Geophilidae,Lampyridae,Family,Family,1,Young,Young
+Geophilidae Lycosidae,Geophilidae,Lycosidae,Family,Family,1,Young and Adult,Young and Adult
+Geophilidae Nitidulidae,Geophilidae,Nitidulidae,Family,Family,1,Adult,Adult
+Geophilidae Phalangiidae,Geophilidae,Phalangiidae,Family,Family,90,Adult,Young and Adult
+Geophilidae Plants,Geophilidae,Plants,Family,Feeding guild,2,,
+Geophilidae Scutigerellidae,Geophilidae,Scutigerellidae,Family,Family,93,Young and Adult,Adult
+Geophilidae Staphylinidae,Geophilidae,Staphylinidae,Family,Family,1,Young and Adult,Young and Adult
+Gerridae Annelida,Gerridae,Annelida,Family,Feeding guild,2,Young,Young
+Gerridae Baetidae,Gerridae,Baetidae,Family,Family,1; 2,Young,Young
+Gerridae Caenidae,Gerridae,Caenidae,Family,Family,1; 2,Young,Young
+Gerridae Capniidae,Gerridae,Capniidae,Family,Family,2,Young,Young
+Gerridae Ceratopogonidae,Gerridae,Ceratopogonidae,Family,Family,1,Young,Young
+Gerridae Chironomidae,Gerridae,Chironomidae,Family,Family,1; 2,Young,Young
+Gerridae Chrysomelidae,Gerridae,Chrysomelidae,Family,Family,2,Young,Young
+Gerridae Coenagrionidae,Gerridae,Coenagrionidae,Family,Family,1,Young,Young
+Gerridae Culicidae,Gerridae,Culicidae,Family,Family,2,Young,Young
+Gerridae Curculionidae,Gerridae,Curculionidae,Family,Family,2,Young,Young
+Gerridae Dixidae,Gerridae,Dixidae,Family,Family,2,Young,Young
+Gerridae Dryopidae,Gerridae,Dryopidae,Family,Family,2,Young,Young
+Gerridae Elmidae,Gerridae,Elmidae,Family,Family,2,Young,Young
+Gerridae Ephemeridae,Gerridae,Ephemeridae,Family,Family,2,Young,Young
+Gerridae Ephydridae,Gerridae,Ephydridae,Family,Family,1; 2,Young,Young
+Gerridae Fungi,Gerridae,Fungi,Family,Feeding guild,2,,
+Gerridae Gammaridae,Gerridae,Gammaridae,Family,Family,2,Young,Young
+Gerridae Gerridae,Gerridae,Gerridae,Family,Family,1,Young and Adult,Young and Adult
+Gerridae Haliplidae,Gerridae,Haliplidae,Family,Family,2,Young,Young
+Gerridae Heptageniidae,Gerridae,Heptageniidae,Family,Family,2,Young,Young
+Gerridae Hydrophilidae,Gerridae,Hydrophilidae,Family,Family,2,Young,Young
+Gerridae Lepidostomatidae,Gerridae,Lepidostomatidae,Family,Family,2,Young,Young
+Gerridae Leuctridae,Gerridae,Leuctridae,Family,Family,2,Young,Young
+Gerridae Libellulidae,Gerridae,Libellulidae,Family,Family,1,,
+Gerridae Limnephilidae,Gerridae,Limnephilidae,Family,Family,2,Young,Young
+Gerridae Limoniidae,Gerridae,Limoniidae,Family,Family,2,Young,Young
+Gerridae Lycosidae,Gerridae,Lycosidae,Family,Family,1,Young,Young
+Gerridae Lymnaeidae,Gerridae,Lymnaeidae,Family,Family,1; 2,Young,Young
+Gerridae Nemouridae,Gerridae,Nemouridae,Family,Family,2,Young,Young
+Gerridae Notonectidae,Gerridae,Notonectidae,Family,Family,1,,
+Gerridae Philopotamidae,Gerridae,Philopotamidae,Family,Family,2,Young,Young
+Gerridae Physidae,Gerridae,Physidae,Family,Family,2,Young,Young
+Gerridae Plankton,Gerridae,Plankton,Family,Feeding guild,2,Young,
+Gerridae Psychodidae,Gerridae,Psychodidae,Family,Family,2,Young,Young
+Gerridae Ptychopteridae,Gerridae,Ptychopteridae,Family,Family,2,Young,Young
+Gerridae Scavenger,Gerridae,Scavenger,Family,Feeding guild,2,,
+Gerridae Scirtidae,Gerridae,Scirtidae,Family,Family,2,Young,Young
+Gerridae Simuliidae,Gerridae,Simuliidae,Family,Family,2,Young,Young
+Gerridae Stratiomyidae,Gerridae,Stratiomyidae,Family,Family,2,Young,Young
+Gerridae Syrphidae,Gerridae,Syrphidae,Family,Family,2,Young,Young
+Gerridae Tipulidae,Gerridae,Tipulidae,Family,Family,2,Young,Young
+Haliplidae Algae,Haliplidae,Algae,Family,Feeding guild,2,,
+Haliplidae Cecidomyiidae,Haliplidae,Cecidomyiidae,Family,Family,2,,Egg
+Haliplidae Ceratopogonidae,Haliplidae,Ceratopogonidae,Family,Family,2,,Egg
+Haliplidae Chaoboridae,Haliplidae,Chaoboridae,Family,Family,2,,Egg
+Haliplidae Chironomidae,Haliplidae,Chironomidae,Family,Family,2,,Egg
+Haliplidae Culicidae,Haliplidae,Culicidae,Family,Family,2,,Egg
+Haliplidae Dixidae,Haliplidae,Dixidae,Family,Family,2,,Egg
+Haliplidae Limoniidae,Haliplidae,Limoniidae,Family,Family,2,,Egg
+Haliplidae Pediciidae,Haliplidae,Pediciidae,Family,Family,2,,Egg
+Haliplidae Plankton,Haliplidae,Plankton,Family,Feeding guild,2,Young,
+Haliplidae Plants,Haliplidae,Plants,Family,Feeding guild,2,Young,Young
+Haliplidae Psychodidae,Haliplidae,Psychodidae,Family,Family,2,,Egg
+Haliplidae Ptychopteridae,Haliplidae,Ptychopteridae,Family,Family,2,,Egg
+Haliplidae Sciaridae,Haliplidae,Sciaridae,Family,Family,2,,Egg
+Haliplidae Simuliidae,Haliplidae,Simuliidae,Family,Family,2,,Egg
+Haliplidae Tipulidae,Haliplidae,Tipulidae,Family,Family,2,,Egg
+Haliplidae Trichoceridae,Haliplidae,Trichoceridae,Family,Family,2,,Egg
+Heleomyzidae Fungi,Heleomyzidae,Fungi,Family,Feeding guild,2,Young,
+Heleomyzidae Plants,Heleomyzidae,Plants,Family,Feeding guild,2,,
+Heleomyzidae Terrestrial detritus,Heleomyzidae,Terrestrial detritus,Family,Feeding guild,2,,
+Hemerobiidae Baetidae,Hemerobiidae,Baetidae,Family,Family,1,,
+Hemerobiidae Elipsocidae,Hemerobiidae,Elipsocidae,Family,Family,63,Young,Egg
+Hemerobiidae Leuctridae,Hemerobiidae,Leuctridae,Family,Family,1,,
+Hemerobiidae Nemouridae,Hemerobiidae,Nemouridae,Family,Family,1,,
+Hemerobiidae Peripsocidae,Hemerobiidae,Peripsocidae,Family,Family,89,Adult,Young
+Hemerobiidae Philopotamidae,Hemerobiidae,Philopotamidae,Family,Family,1,,
+Hemerobiidae Plants,Hemerobiidae,Plants,Family,Feeding guild,2,,
+Hepialidae Plants,Hepialidae,Plants,Family,Feeding guild,2,Young,
+Hepialidae Terrestrial detritus,Hepialidae,Terrestrial detritus,Family,Feeding guild,2,,
+Heptageniidae Plankton,Heptageniidae,Plankton,Family,Feeding guild,2,Young,
+Heptageniidae Plants,Heptageniidae,Plants,Family,Feeding guild,2,Young,Young
+Hybotidae Cecidomyiidae,Hybotidae,Cecidomyiidae,Family,Family,1,,
+Hydridae Cyclopidae,Hydridae,Cyclopidae,Family,Family,20,Adult,
+Hydridae Daphniidae,Hydridae,Daphniidae,Family,Family,20,Adult,
+Hydrodromidae Chironomidae,Hydrodromidae,Chironomidae,Family,Family,21,Young,Egg
+Hydrophilidae Aquatic detritus,Hydrophilidae,Aquatic detritus,Family,Feeding guild,2,Young,
+Hydrophilidae Plankton,Hydrophilidae,Plankton,Family,Feeding guild,2,Young,
+Hydrophilidae Plants,Hydrophilidae,Plants,Family,Feeding guild,2,Young,Young
+Hydrophilidae Scavenger,Hydrophilidae,Scavenger,Family,Feeding guild,2,,
+Hydrophilidae Sepsidae,Hydrophilidae,Sepsidae,Family,Family,94,Young and Adult,Young
+Isopoda Aquatic detritus,Isopoda,Aquatic detritus,Feeding guild,Feeding guild,47,Young and Adult,
+Isopoda Terrestrial detritus,Isopoda,Terrestrial detritus,Feeding guild,Feeding guild,40; 46; 47,Young and Adult,
+Laelapidae Collembola,Laelapidae,Collembola,Family,Feeding guild,58,,
+Lauxaniidae Plants,Lauxaniidae,Plants,Family,Feeding guild,2,,
+Lauxaniidae Terrestrial detritus,Lauxaniidae,Terrestrial detritus,Family,Feeding guild,2,Young,
+Lepidostomatidae Plants,Lepidostomatidae,Plants,Family,Feeding guild,2,Young,
+Lepidostomatidae Scavenger,Lepidostomatidae,Scavenger,Family,Feeding guild,2,,
+Lepidostomatidae Terrestrial detritus,Lepidostomatidae,Terrestrial detritus,Family,Feeding guild,2,,
+Leuctridae Algae,Leuctridae,Algae,Family,Feeding guild,2,,
+Leuctridae Aquatic detritus,Leuctridae,Aquatic detritus,Family,Feeding guild,2,,
+Leuctridae Plants,Leuctridae,Plants,Family,Feeding guild,2,Young,
+Libellulidae Agromyzidae,Libellulidae,Agromyzidae,Family,Family,1,,
+Libellulidae Baetidae,Libellulidae,Baetidae,Family,Family,1,,
+Libellulidae Caenidae,Libellulidae,Caenidae,Family,Family,1,,
+Libellulidae Calliphoridae,Libellulidae,Calliphoridae,Family,Family,1; 2,Adult,
+Libellulidae Cantharidae,Libellulidae,Cantharidae,Family,Family,1,,
+Libellulidae Cecidomyiidae,Libellulidae,Cecidomyiidae,Family,Family,1,,
+Libellulidae Ceratopogonidae,Libellulidae,Ceratopogonidae,Family,Family,1,,
+Libellulidae Chironomidae,Libellulidae,Chironomidae,Family,Family,1; 2,Young and Adult,Young
+Libellulidae Chloropidae,Libellulidae,Chloropidae,Family,Family,1,,
+Libellulidae Chrysomelidae,Libellulidae,Chrysomelidae,Family,Family,1; 2,Adult,
+Libellulidae Cicadellidae,Libellulidae,Cicadellidae,Family,Family,1,,
+Libellulidae Coccinellidae,Libellulidae,Coccinellidae,Family,Family,1,,
+Libellulidae Coenagrionidae,Libellulidae,Coenagrionidae,Family,Family,1,Young,Young
+Libellulidae Curculionidae,Libellulidae,Curculionidae,Family,Family,1,,
+Libellulidae Dolichopodidae,Libellulidae,Dolichopodidae,Family,Family,1,,
+Libellulidae Drosophilidae,Libellulidae,Drosophilidae,Family,Family,1,,
+Libellulidae Dytiscidae,Libellulidae,Dytiscidae,Family,Family,1,Young and Adult,Young and Adult
+Libellulidae Elateridae,Libellulidae,Elateridae,Family,Family,1,Young,Young
+Libellulidae Empididae,Libellulidae,Empididae,Family,Family,1,,
+Libellulidae Ephydridae,Libellulidae,Ephydridae,Family,Family,1,,
+Libellulidae Formicidae,Libellulidae,Formicidae,Family,Family,2,Adult,
+Libellulidae Geometridae,Libellulidae,Geometridae,Family,Family,2,Adult,
+Libellulidae Haliplidae,Libellulidae,Haliplidae,Family,Family,1,,
+Libellulidae Hybotidae,Libellulidae,Hybotidae,Family,Family,1,,
+Libellulidae Libellulidae,Libellulidae,Libellulidae,Family,Family,1,,
+Libellulidae Limnephilidae,Libellulidae,Limnephilidae,Family,Family,1,,
+Libellulidae Limoniidae,Libellulidae,Limoniidae,Family,Family,1,,
+Libellulidae Lymnaeidae,Libellulidae,Lymnaeidae,Family,Family,1,,
+Libellulidae Muscidae,Libellulidae,Muscidae,Family,Family,1,,
+Libellulidae Nitidulidae,Libellulidae,Nitidulidae,Family,Family,1,,
+Libellulidae Noctuidae,Libellulidae,Noctuidae,Family,Family,1,,
+Libellulidae Notonectidae,Libellulidae,Notonectidae,Family,Family,1,Young and Adult,Young and Adult
+Libellulidae Phoridae,Libellulidae,Phoridae,Family,Family,1,,
+Libellulidae Plants,Libellulidae,Plants,Family,Feeding guild,2,,
+Libellulidae Psychodidae,Libellulidae,Psychodidae,Family,Family,1; 2,Adult,Adult
+Libellulidae Sarcophagidae,Libellulidae,Sarcophagidae,Family,Family,1,,
+Libellulidae Sciaridae,Libellulidae,Sciaridae,Family,Family,1; 2,Adult,
+Libellulidae Sciomyzidae,Libellulidae,Sciomyzidae,Family,Family,1,,
+Libellulidae Sialidae,Libellulidae,Sialidae,Family,Family,1,Young,Young
+Libellulidae Syrphidae,Libellulidae,Syrphidae,Family,Family,1,,
+Libellulidae Tipulidae,Libellulidae,Tipulidae,Family,Family,1,,
+Limnephilidae Algae,Limnephilidae,Algae,Family,Feeding guild,2,,
+Limnephilidae Aquatic detritus,Limnephilidae,Aquatic detritus,Family,Feeding guild,2,Young,
+Limnephilidae Baetidae,Limnephilidae,Baetidae,Family,Family,1; 2,Young,Young
+Limnephilidae Caenidae,Limnephilidae,Caenidae,Family,Family,2,Young,Young
+Limnephilidae Capniidae,Limnephilidae,Capniidae,Family,Family,2,Young,Young
+Limnephilidae Chironomidae,Limnephilidae,Chironomidae,Family,Family,1; 2,Young,Young
+Limnephilidae Chrysomelidae,Limnephilidae,Chrysomelidae,Family,Family,2,Young,Young
+Limnephilidae Culicidae,Limnephilidae,Culicidae,Family,Family,2,Young,Young
+Limnephilidae Curculionidae,Limnephilidae,Curculionidae,Family,Family,2,Young,Young
+Limnephilidae Dixidae,Limnephilidae,Dixidae,Family,Family,2,Young,Young
+Limnephilidae Dryopidae,Limnephilidae,Dryopidae,Family,Family,2,Young,Young
+Limnephilidae Dytiscidae,Limnephilidae,Dytiscidae,Family,Family,1,,
+Limnephilidae Elmidae,Limnephilidae,Elmidae,Family,Family,2,Young,Young
+Limnephilidae Ephemeridae,Limnephilidae,Ephemeridae,Family,Family,2,Young,Young
+Limnephilidae Ephydridae,Limnephilidae,Ephydridae,Family,Family,2,Young,Young
+Limnephilidae Gammaridae,Limnephilidae,Gammaridae,Family,Family,2,Young,Young
+Limnephilidae Haliplidae,Limnephilidae,Haliplidae,Family,Family,2,Young,Young
+Limnephilidae Heptageniidae,Limnephilidae,Heptageniidae,Family,Family,2,Young,Young
+Limnephilidae Hydrophilidae,Limnephilidae,Hydrophilidae,Family,Family,2,Young,Young
+Limnephilidae Lepidostomatidae,Limnephilidae,Lepidostomatidae,Family,Family,2,Young,Young
+Limnephilidae Leuctridae,Limnephilidae,Leuctridae,Family,Family,2,Young,Young
+Limnephilidae Limnephilidae,Limnephilidae,Limnephilidae,Family,Family,1; 2,Young,Young
+Limnephilidae Limoniidae,Limnephilidae,Limoniidae,Family,Family,2,Young,Young
+Limnephilidae Lymnaeidae,Limnephilidae,Lymnaeidae,Family,Family,2,Young,Young
+Limnephilidae Nemouridae,Limnephilidae,Nemouridae,Family,Family,2,Young,Young
+Limnephilidae Philopotamidae,Limnephilidae,Philopotamidae,Family,Family,2,Young,Young
+Limnephilidae Physidae,Limnephilidae,Physidae,Family,Family,2,Young,Young
+Limnephilidae Plants,Limnephilidae,Plants,Family,Feeding guild,2,Young,Young
+Limnephilidae Psychodidae,Limnephilidae,Psychodidae,Family,Family,2,Young,Young
+Limnephilidae Ptychopteridae,Limnephilidae,Ptychopteridae,Family,Family,2,Young,Young
+Limnephilidae Scavenger,Limnephilidae,Scavenger,Family,Feeding guild,2,,
+Limnephilidae Scirtidae,Limnephilidae,Scirtidae,Family,Family,2,Young,Young
+Limnephilidae Simuliidae,Limnephilidae,Simuliidae,Family,Family,2,Young,Young
+Limnephilidae Stratiomyidae,Limnephilidae,Stratiomyidae,Family,Family,2,Young,Young
+Limnephilidae Syrphidae,Limnephilidae,Syrphidae,Family,Family,2,Young,Young
+Limnephilidae Tipulidae,Limnephilidae,Tipulidae,Family,Family,2,Young,Young
+Limnesiidae Plants,Limnesiidae,Plants,Family,Feeding guild,25,Young and Adult,
+Limoniidae Aquatic detritus,Limoniidae,Aquatic detritus,Family,Feeding guild,2,Young,
+Limoniidae Chironomidae,Limoniidae,Chironomidae,Family,Family,1,Young,Young
+Limoniidae Heptageniidae,Limoniidae,Heptageniidae,Family,Family,1,,
+Limoniidae Leuctridae,Limoniidae,Leuctridae,Family,Family,1,,
+Limoniidae Limoniidae,Limoniidae,Limoniidae,Family,Family,1,,
+Limoniidae Philopotamidae,Limoniidae,Philopotamidae,Family,Family,1,,
+Limoniidae Plankton,Limoniidae,Plankton,Family,Feeding guild,2,Young,
+Limoniidae Plants,Limoniidae,Plants,Family,Feeding guild,2,Young,Young
+Lithobiidae Annelida,Lithobiidae,Annelida,Family,Feeding guild,80,Young and Adult,Young and Adult
+Lithobiidae Collembola,Lithobiidae,Collembola,Family,Feeding guild,73; 74; 84,Adult,Young and Adult
+Lithobiidae Terrestrial detritus,Lithobiidae,Terrestrial detritus,Family,Feeding guild,26,Young and Adult,
+Lonchaeidae Plants,Lonchaeidae,Plants,Family,Feeding guild,2,,
+Lonchopteridae Algae,Lonchopteridae,Algae,Family,Feeding guild,2,,
+Lonchopteridae Coprophagous,Lonchopteridae,Coprophagous,Family,Feeding guild,2,,
+Lonchopteridae Fungi,Lonchopteridae,Fungi,Family,Feeding guild,2,,
+Lonchopteridae Plants,Lonchopteridae,Plants,Family,Feeding guild,2,Adult,
+Lycosidae Agromyzidae,Lycosidae,Agromyzidae,Family,Family,75,Adult,
+Lycosidae Annelida,Lycosidae,Annelida,Family,Feeding guild,75,Adult,
+Lycosidae Anthomyiidae,Lycosidae,Anthomyiidae,Family,Family,1; 75; 96,Adult,Adult
+Lycosidae Cantharidae,Lycosidae,Cantharidae,Family,Family,1,Young and Adult,Young and Adult
+Lycosidae Carabidae,Lycosidae,Carabidae,Family,Family,1; 2,Young and Adult,Young and Adult
+Lycosidae Cecidomyiidae,Lycosidae,Cecidomyiidae,Family,Family,1; 75,Adult,
+Lycosidae Ceratopogonidae,Lycosidae,Ceratopogonidae,Family,Family,75,Adult,
+Lycosidae Chironomidae,Lycosidae,Chironomidae,Family,Family,1; 96,Young and Adult,Young and Adult
+Lycosidae Chrysomelidae,Lycosidae,Chrysomelidae,Family,Family,1,Young and Adult,Young and Adult
+Lycosidae Cicadellidae,Lycosidae,Cicadellidae,Family,Family,1,Young,Young
+Lycosidae Clubionidae,Lycosidae,Clubionidae,Family,Family,1,Young,Young
+Lycosidae Coccinellidae,Lycosidae,Coccinellidae,Family,Family,1; 2,Adult,Adult
+Lycosidae Collembola,Lycosidae,Collembola,Family,Feeding guild,2; 75,Adult,Adult
+Lycosidae Curculionidae,Lycosidae,Curculionidae,Family,Family,1,Adult,Adult
+Lycosidae Dolichopodidae,Lycosidae,Dolichopodidae,Family,Family,1; 96,Adult,Adult
+Lycosidae Dytiscidae,Lycosidae,Dytiscidae,Family,Family,1,,
+Lycosidae Ectobiidae,Lycosidae,Ectobiidae,Family,Family,60,Young and Adult,
+Lycosidae Elateridae,Lycosidae,Elateridae,Family,Family,1; 2,Young and Adult,Young and Adult
+Lycosidae Empididae,Lycosidae,Empididae,Family,Family,75,Adult,
+Lycosidae Ephydridae,Lycosidae,Ephydridae,Family,Family,1; 96,Young and Adult,Adult
+Lycosidae Erebidae,Lycosidae,Erebidae,Family,Family,75,Adult,
+Lycosidae Fanniidae,Lycosidae,Fanniidae,Family,Family,75,Adult,
+Lycosidae Formicidae,Lycosidae,Formicidae,Family,Family,1,,
+Lycosidae Geometridae,Lycosidae,Geometridae,Family,Family,75,Adult,
+Lycosidae Geophilidae,Lycosidae,Geophilidae,Family,Family,1,Adult,Adult
+Lycosidae Isopoda,Lycosidae,Isopoda,Family,Feeding guild,101,Young and Adult,Young and Adult
+Lycosidae Limoniidae,Lycosidae,Limoniidae,Family,Family,75,Adult,
+Lycosidae Lycosidae,Lycosidae,Lycosidae,Family,Family,1,Young and Adult,Young and Adult
+Lycosidae Lygaeidae,Lycosidae,Lygaeidae,Family,Family,1; 75,Adult,
+Lycosidae Lymnaeidae,Lycosidae,Lymnaeidae,Family,Family,1,,
+Lycosidae Miridae,Lycosidae,Miridae,Family,Family,1,,
+Lycosidae Muscidae,Lycosidae,Muscidae,Family,Family,1; 75,Adult,
+Lycosidae Nitidulidae,Lycosidae,Nitidulidae,Family,Family,1,Adult,Adult
+Lycosidae Noctuidae,Lycosidae,Noctuidae,Family,Family,1; 75,Adult,
+Lycosidae Phoridae,Lycosidae,Phoridae,Family,Family,75,Adult,
+Lycosidae Psychodidae,Lycosidae,Psychodidae,Family,Family,1,Young and Adult,Young and Adult
+Lycosidae Pyralidae,Lycosidae,Pyralidae,Family,Family,1,,
+Lycosidae Rhyparochromidae,Lycosidae,Rhyparochromidae,Family,Family,1,,
+Lycosidae Scarabaeidae,Lycosidae,Scarabaeidae,Family,Family,1,,
+Lycosidae Sphaeroceridae,Lycosidae,Sphaeroceridae,Family,Family,96,Young,Adult
+Lycosidae Staphylinidae,Lycosidae,Staphylinidae,Family,Family,1,Young and Adult,Young and Adult
+Lycosidae Syrphidae,Lycosidae,Syrphidae,Family,Family,1; 2,Adult,Adult
+Lycosidae Tenthredinidae,Lycosidae,Tenthredinidae,Family,Family,75,Adult,
+Lycosidae Tipulidae,Lycosidae,Tipulidae,Family,Family,2,Adult,Adult
+Lycosidae Tortricidae,Lycosidae,Tortricidae,Family,Family,75,Adult,
+Lygaeidae Lygaeidae,Lygaeidae,Lygaeidae,Family,Family,1; 2,,
+Lygaeidae Plants,Lygaeidae,Plants,Family,Feeding guild,2,,
+Lygaeidae Rhyparochromidae,Lygaeidae,Rhyparochromidae,Family,Family,1,,
+Lymnaeidae Cerambycidae,Lymnaeidae,Cerambycidae,Family,Family,1,,
+Lymnaeidae Hydridae,Lymnaeidae,Hydridae,Family,Family,72,Adult,Young and Adult
+Lymnaeidae Plankton,Lymnaeidae,Plankton,Family,Feeding guild,2,Young,
+Lymnaeidae Plants,Lymnaeidae,Plants,Family,Feeding guild,2,Young and Adult,Young
+Miridae Agromyzidae,Miridae,Agromyzidae,Family,Family,1,,
+Miridae Chrysomelidae,Miridae,Chrysomelidae,Family,Family,1; 2,,
+Miridae Cicadellidae,Miridae,Cicadellidae,Family,Family,1,,
+Miridae Formicidae,Miridae,Formicidae,Family,Family,1; 2,Young,Young
+Miridae Miridae,Miridae,Miridae,Family,Family,1; 2,,
+Miridae Plants,Miridae,Plants,Family,Feeding guild,2,,
+Muscidae Anthomyiidae,Muscidae,Anthomyiidae,Family,Family,1; 2,Young,Young
+Muscidae Calliphoridae,Muscidae,Calliphoridae,Family,Family,1; 2,Young,Young
+Muscidae Ceratopogonidae,Muscidae,Ceratopogonidae,Family,Family,2,,
+Muscidae Chironomidae,Muscidae,Chironomidae,Family,Family,1,Young,Young
+Muscidae Culicidae,Muscidae,Culicidae,Family,Family,2,,
+Muscidae Curculionidae,Muscidae,Curculionidae,Family,Family,2,,
+Muscidae Ectopsocidae,Muscidae,Ectopsocidae,Family,Family,61,Adult,Adult
+Muscidae Fanniidae,Muscidae,Fanniidae,Family,Family,68,Young,Young and Adult
+Muscidae Lonchaeidae,Muscidae,Lonchaeidae,Family,Family,2,,
+Muscidae Muscidae,Muscidae,Muscidae,Family,Family,2,,
+Muscidae Plants,Muscidae,Plants,Family,Feeding guild,2,Adult,
+Muscidae Psychodidae,Muscidae,Psychodidae,Family,Family,2,,
+Muscidae Sarcophagidae,Muscidae,Sarcophagidae,Family,Family,1,Young,Young
+Muscidae Scarabaeidae,Muscidae,Scarabaeidae,Family,Family,2,,
+Muscidae Sciaridae,Muscidae,Sciaridae,Family,Family,2,,
+Muscidae Simuliidae,Muscidae,Simuliidae,Family,Family,2,,
+Mycetophagidae Fungi,Mycetophagidae,Fungi,Family,Feeding guild,2,,
+Mycetophagidae Plants,Mycetophagidae,Plants,Family,Feeding guild,2,,
+Naucoridae Chironomidae,Naucoridae,Chironomidae,Family,Family,1,Young,Young
+Naucoridae Lymnaeidae,Naucoridae,Lymnaeidae,Family,Family,1,Adult,Adult
+Naucoridae Naucoridae,Naucoridae,Naucoridae,Family,Family,1,Adult,Adult
+Nemonychidae Nemonychidae,Nemonychidae,Nemonychidae,Family,Family,2,,
+Nemonychidae Plants,Nemonychidae,Plants,Family,Feeding guild,2,Young and Adult,
+Nemouridae Aquatic detritus,Nemouridae,Aquatic detritus,Family,Feeding guild,2,,
+Nemouridae Plants,Nemouridae,Plants,Family,Feeding guild,2,Young,
+Nepidae Chironomidae,Nepidae,Chironomidae,Family,Family,1,,
+Nepidae Lymnaeidae,Nepidae,Lymnaeidae,Family,Family,1,,
+Nitidulidae Curculionidae,Nitidulidae,Curculionidae,Family,Family,2,,
+Nitidulidae Formicidae,Nitidulidae,Formicidae,Family,Family,1; 2,,
+Nitidulidae Nitidulidae,Nitidulidae,Nitidulidae,Family,Family,2,,
+Nitidulidae Plants,Nitidulidae,Plants,Family,Feeding guild,2,Young and Adult,
+Noctuidae Agromyzidae,Noctuidae,Agromyzidae,Family,Family,1,,
+Noctuidae Noctuidae,Noctuidae,Noctuidae,Family,Family,1,,
+Noctuidae Plants,Noctuidae,Plants,Family,Feeding guild,2,Young and Adult,
+Noteridae Ceratopogonidae,Noteridae,Ceratopogonidae,Family,Family,1,,
+Noteridae Chironomidae,Noteridae,Chironomidae,Family,Family,1,,
+Noteridae Culicidae,Noteridae,Culicidae,Family,Family,1,,
+Notonectidae Annelida,Notonectidae,Annelida,Family,Feeding guild,2,Young,Young
+Notonectidae Baetidae,Notonectidae,Baetidae,Family,Family,1; 2,Young,Young
+Notonectidae Caenidae,Notonectidae,Caenidae,Family,Family,1; 2,Young,Young
+Notonectidae Candonidae,Notonectidae,Candonidae,Family,Family,51,Young and Adult,
+Notonectidae Capniidae,Notonectidae,Capniidae,Family,Family,2,Young,Young
+Notonectidae Ceratopogonidae,Notonectidae,Ceratopogonidae,Family,Family,1,Young,Young
+Notonectidae Chironomidae,Notonectidae,Chironomidae,Family,Family,1; 2,Young,Young
+Notonectidae Chrysomelidae,Notonectidae,Chrysomelidae,Family,Family,2,Young,Young
+Notonectidae Coenagrionidae,Notonectidae,Coenagrionidae,Family,Family,1,Young,Young
+Notonectidae Culicidae,Notonectidae,Culicidae,Family,Family,2,Young,Young
+Notonectidae Curculionidae,Notonectidae,Curculionidae,Family,Family,2,Young,Young
+Notonectidae Daphniidae,Notonectidae,Daphniidae,Family,Family,55,Young and Adult,
+Notonectidae Dixidae,Notonectidae,Dixidae,Family,Family,2,Young,Young
+Notonectidae Dryopidae,Notonectidae,Dryopidae,Family,Family,2,Young,Young
+Notonectidae Dytiscidae,Notonectidae,Dytiscidae,Family,Family,1,Young and Adult,Young and Adult
+Notonectidae Elmidae,Notonectidae,Elmidae,Family,Family,2,Young,Young
+Notonectidae Ephemeridae,Notonectidae,Ephemeridae,Family,Family,2,Young,Young
+Notonectidae Ephydridae,Notonectidae,Ephydridae,Family,Family,1; 2,Young,Young
+Notonectidae Formicidae,Notonectidae,Formicidae,Family,Family,1,,
+Notonectidae Gammaridae,Notonectidae,Gammaridae,Family,Family,1; 2,Young,Young
+Notonectidae Gerridae,Notonectidae,Gerridae,Family,Family,1,Young and Adult,Young and Adult
+Notonectidae Haliplidae,Notonectidae,Haliplidae,Family,Family,1; 2,Young and Adult,Young and Adult
+Notonectidae Heptageniidae,Notonectidae,Heptageniidae,Family,Family,2,Young,Young
+Notonectidae Hydrophilidae,Notonectidae,Hydrophilidae,Family,Family,2,Young,Young
+Notonectidae Lepidostomatidae,Notonectidae,Lepidostomatidae,Family,Family,2,Young,Young
+Notonectidae Leuctridae,Notonectidae,Leuctridae,Family,Family,2,Young,Young
+Notonectidae Limnephilidae,Notonectidae,Limnephilidae,Family,Family,1; 2,Young,Young
+Notonectidae Limoniidae,Notonectidae,Limoniidae,Family,Family,2,Young,Young
+Notonectidae Lymnaeidae,Notonectidae,Lymnaeidae,Family,Family,2,Young,Young
+Notonectidae Nemouridae,Notonectidae,Nemouridae,Family,Family,1; 2,Young,Young
+Notonectidae Noteridae,Notonectidae,Noteridae,Family,Family,1,,
+Notonectidae Notonectidae,Notonectidae,Notonectidae,Family,Family,1,Young and Adult,Young and Adult
+Notonectidae Philopotamidae,Notonectidae,Philopotamidae,Family,Family,2,Young,Young
+Notonectidae Physidae,Notonectidae,Physidae,Family,Family,2,Young,Young
+Notonectidae Plankton,Notonectidae,Plankton,Family,Feeding guild,2,Young,
+Notonectidae Psychodidae,Notonectidae,Psychodidae,Family,Family,2,Young,Young
+Notonectidae Ptychopteridae,Notonectidae,Ptychopteridae,Family,Family,2,Young,Young
+Notonectidae Scirtidae,Notonectidae,Scirtidae,Family,Family,2,Young,Young
+Notonectidae Sialidae,Notonectidae,Sialidae,Family,Family,1,Young,Young
+Notonectidae Simuliidae,Notonectidae,Simuliidae,Family,Family,2,Young,Young
+Notonectidae Stratiomyidae,Notonectidae,Stratiomyidae,Family,Family,2,Young,Young
+Notonectidae Syrphidae,Notonectidae,Syrphidae,Family,Family,2,Young,Young
+Notonectidae Tipulidae,Notonectidae,Tipulidae,Family,Family,2,Young,Young
+Odontoceridae Aquatic detritus,Odontoceridae,Aquatic detritus,Family,Feeding guild,2,,
+Odontoceridae Baetidae,Odontoceridae,Baetidae,Family,Family,1; 2,Young,Young
+Odontoceridae Caenidae,Odontoceridae,Caenidae,Family,Family,2,Young,Young
+Odontoceridae Capniidae,Odontoceridae,Capniidae,Family,Family,2,Young,Young
+Odontoceridae Chironomidae,Odontoceridae,Chironomidae,Family,Family,2,Young,Young
+Odontoceridae Chrysomelidae,Odontoceridae,Chrysomelidae,Family,Family,2,Young,Young
+Odontoceridae Culicidae,Odontoceridae,Culicidae,Family,Family,2,Young,Young
+Odontoceridae Curculionidae,Odontoceridae,Curculionidae,Family,Family,2,Young,Young
+Odontoceridae Dixidae,Odontoceridae,Dixidae,Family,Family,2,Young,Young
+Odontoceridae Dryopidae,Odontoceridae,Dryopidae,Family,Family,2,Young,Young
+Odontoceridae Elmidae,Odontoceridae,Elmidae,Family,Family,2,Young,Young
+Odontoceridae Ephemeridae,Odontoceridae,Ephemeridae,Family,Family,2,Young,Young
+Odontoceridae Ephydridae,Odontoceridae,Ephydridae,Family,Family,2,Young,Young
+Odontoceridae Gammaridae,Odontoceridae,Gammaridae,Family,Family,2,Young,Young
+Odontoceridae Haliplidae,Odontoceridae,Haliplidae,Family,Family,2,Young,Young
+Odontoceridae Heptageniidae,Odontoceridae,Heptageniidae,Family,Family,2,Young,Young
+Odontoceridae Hydrophilidae,Odontoceridae,Hydrophilidae,Family,Family,2,Young,Young
+Odontoceridae Lepidostomatidae,Odontoceridae,Lepidostomatidae,Family,Family,2,Young,Young
+Odontoceridae Leuctridae,Odontoceridae,Leuctridae,Family,Family,2,Young,Young
+Odontoceridae Limnephilidae,Odontoceridae,Limnephilidae,Family,Family,2,Young,Young
+Odontoceridae Limoniidae,Odontoceridae,Limoniidae,Family,Family,2,Young,Young
+Odontoceridae Lymnaeidae,Odontoceridae,Lymnaeidae,Family,Family,2,Young,Young
+Odontoceridae Nemouridae,Odontoceridae,Nemouridae,Family,Family,2,Young,Young
+Odontoceridae Philopotamidae,Odontoceridae,Philopotamidae,Family,Family,2,Young,Young
+Odontoceridae Physidae,Odontoceridae,Physidae,Family,Family,2,Young,Young
+Odontoceridae Plants,Odontoceridae,Plants,Family,Feeding guild,2,,
+Odontoceridae Psychodidae,Odontoceridae,Psychodidae,Family,Family,2,Young,Young
+Odontoceridae Ptychopteridae,Odontoceridae,Ptychopteridae,Family,Family,2,Young,Young
+Odontoceridae Scirtidae,Odontoceridae,Scirtidae,Family,Family,2,Young,Young
+Odontoceridae Simuliidae,Odontoceridae,Simuliidae,Family,Family,2,Young,Young
+Odontoceridae Stratiomyidae,Odontoceridae,Stratiomyidae,Family,Family,2,Young,Young
+Odontoceridae Syrphidae,Odontoceridae,Syrphidae,Family,Family,2,Young,Young
+Odontoceridae Tipulidae,Odontoceridae,Tipulidae,Family,Family,2,Young,Young
+Parasitidae Carabidae,Parasitidae,Carabidae,Family,Family,35,Young and Adult,
+Parasitidae Collembola,Parasitidae,Collembola,Family,Feeding guild,58; 85,Adult,Adult
+Pediciidae Terrestrial detritus,Pediciidae,Terrestrial detritus,Family,Feeding guild,36,Young,
+Peripsocidae Terrestrial detritus,Peripsocidae,Terrestrial detritus,Family,Feeding guild,37,Young and Adult,
+Perlodidae Annelida,Perlodidae,Annelida,Family,Feeding guild,2,Young,Young
+Perlodidae Baetidae,Perlodidae,Baetidae,Family,Family,1; 2,Young,Young
+Perlodidae Caenidae,Perlodidae,Caenidae,Family,Family,2,Young,Young
+Perlodidae Capniidae,Perlodidae,Capniidae,Family,Family,2,Young,Young
+Perlodidae Chironomidae,Perlodidae,Chironomidae,Family,Family,1; 2,Young,Young
+Perlodidae Chrysomelidae,Perlodidae,Chrysomelidae,Family,Family,2,Young,Young
+Perlodidae Culicidae,Perlodidae,Culicidae,Family,Family,2,Young,Young
+Perlodidae Curculionidae,Perlodidae,Curculionidae,Family,Family,2,Young,Young
+Perlodidae Dixidae,Perlodidae,Dixidae,Family,Family,2,Young,Young
+Perlodidae Dryopidae,Perlodidae,Dryopidae,Family,Family,2,Young,Young
+Perlodidae Dytiscidae,Perlodidae,Dytiscidae,Family,Family,1,,
+Perlodidae Elmidae,Perlodidae,Elmidae,Family,Family,2,Young,Young
+Perlodidae Ephemeridae,Perlodidae,Ephemeridae,Family,Family,2,Young,Young
+Perlodidae Ephydridae,Perlodidae,Ephydridae,Family,Family,2,Young,Young
+Perlodidae Gammaridae,Perlodidae,Gammaridae,Family,Family,1; 2,Young and Adult,Young and Adult
+Perlodidae Haliplidae,Perlodidae,Haliplidae,Family,Family,2,Young,Young
+Perlodidae Heptageniidae,Perlodidae,Heptageniidae,Family,Family,1; 2,Young,Young
+Perlodidae Hydrophilidae,Perlodidae,Hydrophilidae,Family,Family,2,Young,Young
+Perlodidae Lepidostomatidae,Perlodidae,Lepidostomatidae,Family,Family,2,Young,Young
+Perlodidae Leuctridae,Perlodidae,Leuctridae,Family,Family,1; 2,Young,Young
+Perlodidae Limnephilidae,Perlodidae,Limnephilidae,Family,Family,2,Young,Young
+Perlodidae Limoniidae,Perlodidae,Limoniidae,Family,Family,2,Young,Young
+Perlodidae Lymnaeidae,Perlodidae,Lymnaeidae,Family,Family,2,Young,Young
+Perlodidae Nemouridae,Perlodidae,Nemouridae,Family,Family,1; 2,Young,Young
+Perlodidae Perlodidae,Perlodidae,Perlodidae,Family,Family,1,Young,Young
+Perlodidae Philopotamidae,Perlodidae,Philopotamidae,Family,Family,2,Young,Young
+Perlodidae Physidae,Perlodidae,Physidae,Family,Family,2,Young,Young
+Perlodidae Plankton,Perlodidae,Plankton,Family,Feeding guild,2,Young,
+Perlodidae Plants,Perlodidae,Plants,Family,Feeding guild,2,,
+Perlodidae Psychodidae,Perlodidae,Psychodidae,Family,Family,2,Young,Young
+Perlodidae Ptychopteridae,Perlodidae,Ptychopteridae,Family,Family,2,Young,Young
+Perlodidae Scirtidae,Perlodidae,Scirtidae,Family,Family,2,Young,Young
+Perlodidae Simuliidae,Perlodidae,Simuliidae,Family,Family,1; 2,Young,Young
+Perlodidae Stratiomyidae,Perlodidae,Stratiomyidae,Family,Family,2,Young,Young
+Perlodidae Syrphidae,Perlodidae,Syrphidae,Family,Family,2,Young,Young
+Perlodidae Tipulidae,Perlodidae,Tipulidae,Family,Family,2,Young,Young
+Phalangiidae Annelida,Phalangiidae,Annelida,Family,Feeding guild,39,Young and Adult,
+Phalangiidae Chrysomelidae,Phalangiidae,Chrysomelidae,Family,Family,38,Young and Adult,Egg
+Phalangiidae Elipsocidae,Phalangiidae,Elipsocidae,Family,Family,63,Young and Adult,Egg
+Phalangiidae Noctuidae,Phalangiidae,Noctuidae,Family,Family,38,Young and Adult,Egg
+Phalangiidae Peripsocidae,Phalangiidae,Peripsocidae,Family,Family,89,Adult,Young
+Philopotamidae Algae,Philopotamidae,Algae,Family,Feeding guild,2,,
+Philopotamidae Aquatic detritus,Philopotamidae,Aquatic detritus,Family,Feeding guild,2,,
+Philopotamidae Baetidae,Philopotamidae,Baetidae,Family,Family,1,,
+Philopotamidae Plants,Philopotamidae,Plants,Family,Feeding guild,2,Young,
+Philotarsidae Terrestrial detritus,Philotarsidae,Terrestrial detritus,Family,Feeding guild,37,Young and Adult,
+Phoridae Geometridae,Phoridae,Geometridae,Family,Family,1,,
+Physidae Plankton,Physidae,Plankton,Family,Feeding guild,2,Young,
+Physidae Plants,Physidae,Plants,Family,Feeding guild,2,Young and Adult,Young
+Pipunculidae Cicadellidae,Pipunculidae,Cicadellidae,Family,Family,1; 2,,
+Pipunculidae Plants,Pipunculidae,Plants,Family,Feeding guild,2,,
+Platypezidae Fungi,Platypezidae,Fungi,Family,Feeding guild,2,Young and Adult,
+Platypezidae Plants,Platypezidae,Plants,Family,Feeding guild,2,,
+Platystomatidae Fungi,Platystomatidae,Fungi,Family,Feeding guild,2,,
+Platystomatidae Plants,Platystomatidae,Plants,Family,Feeding guild,2,,
+Polleniidae Annelida,Polleniidae,Annelida,Family,Feeding guild,41,Young,Young and Adult
+Polyxenidae Terrestrial detritus,Polyxenidae,Terrestrial detritus,Family,Feeding guild,2,Young and Adult,
+Psychodidae Aquatic detritus,Psychodidae,Aquatic detritus,Family,Feeding guild,2,Young,
+Psychodidae Plankton,Psychodidae,Plankton,Family,Feeding guild,2,Young,
+Psychodidae Plants,Psychodidae,Plants,Family,Feeding guild,2,Young and Adult,Young
+Ptychopteridae Aquatic detritus,Ptychopteridae,Aquatic detritus,Family,Feeding guild,2,Young,
+Ptychopteridae Plankton,Ptychopteridae,Plankton,Family,Feeding guild,2,Young,
+Ptychopteridae Plants,Ptychopteridae,Plants,Family,Feeding guild,2,Young,Young
+Pyralidae Plants,Pyralidae,Plants,Family,Feeding guild,2,Young,
+Rhagionidae Annelida,Rhagionidae,Annelida,Family,Feeding guild,2; 80,Young,Young and Adult
+Rhagionidae Baetidae,Rhagionidae,Baetidae,Family,Family,2,Young,Young
+Rhagionidae Caenidae,Rhagionidae,Caenidae,Family,Family,2,Young,Young
+Rhagionidae Capniidae,Rhagionidae,Capniidae,Family,Family,2,Young,Young
+Rhagionidae Chironomidae,Rhagionidae,Chironomidae,Family,Family,2,Young,Young
+Rhagionidae Chrysomelidae,Rhagionidae,Chrysomelidae,Family,Family,2,Young,Young
+Rhagionidae Culicidae,Rhagionidae,Culicidae,Family,Family,2,Young,Young
+Rhagionidae Curculionidae,Rhagionidae,Curculionidae,Family,Family,2,Young,Young
+Rhagionidae Dixidae,Rhagionidae,Dixidae,Family,Family,2,Young,Young
+Rhagionidae Dryopidae,Rhagionidae,Dryopidae,Family,Family,2,Young,Young
+Rhagionidae Elmidae,Rhagionidae,Elmidae,Family,Family,2,Young,Young
+Rhagionidae Ephemeridae,Rhagionidae,Ephemeridae,Family,Family,2,Young,Young
+Rhagionidae Ephydridae,Rhagionidae,Ephydridae,Family,Family,2,Young,Young
+Rhagionidae Gammaridae,Rhagionidae,Gammaridae,Family,Family,2,Young,Young
+Rhagionidae Haematophagous,Rhagionidae,Haematophagous,Family,Feeding guild,2,Adult,
+Rhagionidae Haliplidae,Rhagionidae,Haliplidae,Family,Family,2,Young,Young
+Rhagionidae Heptageniidae,Rhagionidae,Heptageniidae,Family,Family,2,Young,Young
+Rhagionidae Hydrophilidae,Rhagionidae,Hydrophilidae,Family,Family,2,Young,Young
+Rhagionidae Lepidostomatidae,Rhagionidae,Lepidostomatidae,Family,Family,2,Young,Young
+Rhagionidae Leuctridae,Rhagionidae,Leuctridae,Family,Family,2,Young,Young
+Rhagionidae Limnephilidae,Rhagionidae,Limnephilidae,Family,Family,2,Young,Young
+Rhagionidae Limoniidae,Rhagionidae,Limoniidae,Family,Family,2,Young,Young
+Rhagionidae Lymnaeidae,Rhagionidae,Lymnaeidae,Family,Family,2,Young,Young
+Rhagionidae Nemouridae,Rhagionidae,Nemouridae,Family,Family,2,Young,Young
+Rhagionidae Philopotamidae,Rhagionidae,Philopotamidae,Family,Family,2,Young,Young
+Rhagionidae Physidae,Rhagionidae,Physidae,Family,Family,2,Young,Young
+Rhagionidae Plankton,Rhagionidae,Plankton,Family,Feeding guild,2,Young,
+Rhagionidae Psychodidae,Rhagionidae,Psychodidae,Family,Family,2,Young,Young
+Rhagionidae Ptychopteridae,Rhagionidae,Ptychopteridae,Family,Family,2,Young,Young
+Rhagionidae Scirtidae,Rhagionidae,Scirtidae,Family,Family,2,Young,Young
+Rhagionidae Simuliidae,Rhagionidae,Simuliidae,Family,Family,2,Young,Young
+Rhagionidae Stratiomyidae,Rhagionidae,Stratiomyidae,Family,Family,2,Young,Young
+Rhagionidae Syrphidae,Rhagionidae,Syrphidae,Family,Family,2,Young,Young
+Rhagionidae Tipulidae,Rhagionidae,Tipulidae,Family,Family,2,Young,Young
+Rhodacaridae Collembola,Rhodacaridae,Collembola,Family,Feeding guild,42; 58,Young and Adult,Young and Adult
+Rhodacaridae Elateridae,Rhodacaridae,Elateridae,Family,Family,42,Young and Adult,Young
+Rhyparochromidae Formicidae,Rhyparochromidae,Formicidae,Family,Family,2,,
+Rhyparochromidae Plants,Rhyparochromidae,Plants,Family,Feeding guild,2,,
+Rhyparochromidae Rhyparochromidae,Rhyparochromidae,Rhyparochromidae,Family,Family,1; 2,,
+Sarcophagidae Carabidae,Sarcophagidae,Carabidae,Family,Family,1; 2,,
+Sarcophagidae Cerambycidae,Sarcophagidae,Cerambycidae,Family,Family,1,Young,Young
+Sarcophagidae Curculionidae,Sarcophagidae,Curculionidae,Family,Family,1; 2,,
+Sarcophagidae Erebidae,Sarcophagidae,Erebidae,Family,Family,1; 2,,
+Sarcophagidae Plants,Sarcophagidae,Plants,Family,Feeding guild,2,Adult,
+Sarcophagidae Scarabaeidae,Sarcophagidae,Scarabaeidae,Family,Family,1,,
+Scarabaeidae Plants,Scarabaeidae,Plants,Family,Feeding guild,2,Young and Adult,
+Sciaridae Fungi,Sciaridae,Fungi,Family,Feeding guild,2,Young,
+Sciaridae Plants,Sciaridae,Plants,Family,Feeding guild,2,Adult,
+Sciomyzidae Annelida,Sciomyzidae,Annelida,Family,Feeding guild,2,Young,Young
+Sciomyzidae Baetidae,Sciomyzidae,Baetidae,Family,Family,2,Young,Young
+Sciomyzidae Caenidae,Sciomyzidae,Caenidae,Family,Family,2,Young,Young
+Sciomyzidae Capniidae,Sciomyzidae,Capniidae,Family,Family,2,Young,Young
+Sciomyzidae Chironomidae,Sciomyzidae,Chironomidae,Family,Family,2,Young,Young
+Sciomyzidae Chrysomelidae,Sciomyzidae,Chrysomelidae,Family,Family,2,Young,Young
+Sciomyzidae Culicidae,Sciomyzidae,Culicidae,Family,Family,2,Young,Young
+Sciomyzidae Curculionidae,Sciomyzidae,Curculionidae,Family,Family,2,Young,Young
+Sciomyzidae Dixidae,Sciomyzidae,Dixidae,Family,Family,2,Young,Young
+Sciomyzidae Dryopidae,Sciomyzidae,Dryopidae,Family,Family,2,Young,Young
+Sciomyzidae Elmidae,Sciomyzidae,Elmidae,Family,Family,2,Young,Young
+Sciomyzidae Ephemeridae,Sciomyzidae,Ephemeridae,Family,Family,2,Young,Young
+Sciomyzidae Ephydridae,Sciomyzidae,Ephydridae,Family,Family,2,Young,Young
+Sciomyzidae Gammaridae,Sciomyzidae,Gammaridae,Family,Family,2,Young,Young
+Sciomyzidae Haliplidae,Sciomyzidae,Haliplidae,Family,Family,2,Young,Young
+Sciomyzidae Heptageniidae,Sciomyzidae,Heptageniidae,Family,Family,2,Young,Young
+Sciomyzidae Hydrophilidae,Sciomyzidae,Hydrophilidae,Family,Family,2,Young,Young
+Sciomyzidae Lepidostomatidae,Sciomyzidae,Lepidostomatidae,Family,Family,2,Young,Young
+Sciomyzidae Leuctridae,Sciomyzidae,Leuctridae,Family,Family,2,Young,Young
+Sciomyzidae Limnephilidae,Sciomyzidae,Limnephilidae,Family,Family,2,Young,Young
+Sciomyzidae Limoniidae,Sciomyzidae,Limoniidae,Family,Family,2,Young,Young
+Sciomyzidae Lymnaeidae,Sciomyzidae,Lymnaeidae,Family,Family,2,Young,Young
+Sciomyzidae Nemouridae,Sciomyzidae,Nemouridae,Family,Family,2,Young,Young
+Sciomyzidae Philopotamidae,Sciomyzidae,Philopotamidae,Family,Family,2,Young,Young
+Sciomyzidae Physidae,Sciomyzidae,Physidae,Family,Family,2,Young,Young
+Sciomyzidae Plankton,Sciomyzidae,Plankton,Family,Feeding guild,2,Young,
+Sciomyzidae Plants,Sciomyzidae,Plants,Family,Feeding guild,2,Adult,
+Sciomyzidae Psychodidae,Sciomyzidae,Psychodidae,Family,Family,2,Young,Young
+Sciomyzidae Ptychopteridae,Sciomyzidae,Ptychopteridae,Family,Family,2,Young,Young
+Sciomyzidae Sciomyzidae,Sciomyzidae,Sciomyzidae,Family,Family,1,Young,Young
+Sciomyzidae Scirtidae,Sciomyzidae,Scirtidae,Family,Family,2,Young,Young
+Sciomyzidae Simuliidae,Sciomyzidae,Simuliidae,Family,Family,2,Young,Young
+Sciomyzidae Stratiomyidae,Sciomyzidae,Stratiomyidae,Family,Family,2,Young,Young
+Sciomyzidae Syrphidae,Sciomyzidae,Syrphidae,Family,Family,2,Young,Young
+Sciomyzidae Tipulidae,Sciomyzidae,Tipulidae,Family,Family,2,Young,Young
+Scirtidae Aquatic detritus,Scirtidae,Aquatic detritus,Family,Feeding guild,2,Young and Adult,
+Scirtidae Plants,Scirtidae,Plants,Family,Feeding guild,2,Young,Young
+Scraptiidae Terrestrial detritus,Scraptiidae,Terrestrial detritus,Family,Feeding guild,43,Young,
+Scutigerellidae Terrestrial detritus,Scutigerellidae,Terrestrial detritus,Family,Feeding guild,44,Young and Adult,
+Sepsidae Coprophagous,Sepsidae,Coprophagous,Family,Feeding guild,2,Young,
+Sepsidae Plants,Sepsidae,Plants,Family,Feeding guild,2,Adult,
+Sialidae Annelida,Sialidae,Annelida,Family,Feeding guild,2,Young,Young
+Sialidae Baetidae,Sialidae,Baetidae,Family,Family,2,Young,Young
+Sialidae Caenidae,Sialidae,Caenidae,Family,Family,1; 2,Young,Young
+Sialidae Canthocamptidae,Sialidae,Canthocamptidae,Family,Family,52,Young,
+Sialidae Capniidae,Sialidae,Capniidae,Family,Family,2,Young,Young
+Sialidae Ceratopogonidae,Sialidae,Ceratopogonidae,Family,Family,1,Young,Young
+Sialidae Chironomidae,Sialidae,Chironomidae,Family,Family,1; 2,Young,Young
+Sialidae Chrysomelidae,Sialidae,Chrysomelidae,Family,Family,2,Young,Young
+Sialidae Chydoridae,Sialidae,Chydoridae,Family,Family,52,Young,
+Sialidae Culicidae,Sialidae,Culicidae,Family,Family,1; 2,Young,Young
+Sialidae Curculionidae,Sialidae,Curculionidae,Family,Family,2,Young,Young
+Sialidae Cyclopidae,Sialidae,Cyclopidae,Family,Family,54,Young,Young
+Sialidae Dixidae,Sialidae,Dixidae,Family,Family,2,Young,Young
+Sialidae Dryopidae,Sialidae,Dryopidae,Family,Family,2,Young,Young
+Sialidae Dytiscidae,Sialidae,Dytiscidae,Family,Family,1,Young and Adult,Young and Adult
+Sialidae Elmidae,Sialidae,Elmidae,Family,Family,2,Young,Young
+Sialidae Ephemeridae,Sialidae,Ephemeridae,Family,Family,1; 2,Young,Young
+Sialidae Ephydridae,Sialidae,Ephydridae,Family,Family,2,Young,Young
+Sialidae Gammaridae,Sialidae,Gammaridae,Family,Family,2,Young,Young
+Sialidae Haliplidae,Sialidae,Haliplidae,Family,Family,2,Young,Young
+Sialidae Heptageniidae,Sialidae,Heptageniidae,Family,Family,2,Young,Young
+Sialidae Hydrophilidae,Sialidae,Hydrophilidae,Family,Family,2,Young,Young
+Sialidae Lepidostomatidae,Sialidae,Lepidostomatidae,Family,Family,2,Young,Young
+Sialidae Leuctridae,Sialidae,Leuctridae,Family,Family,1; 2,Young,Young
+Sialidae Limnephilidae,Sialidae,Limnephilidae,Family,Family,1; 2,Young,Young
+Sialidae Limoniidae,Sialidae,Limoniidae,Family,Family,2,Young,Young
+Sialidae Lymnaeidae,Sialidae,Lymnaeidae,Family,Family,2,Young,Young
+Sialidae Nemouridae,Sialidae,Nemouridae,Family,Family,1; 2,Young,Young
+Sialidae Philopotamidae,Sialidae,Philopotamidae,Family,Family,2,Young,Young
+Sialidae Physidae,Sialidae,Physidae,Family,Family,2,Young,Young
+Sialidae Plankton,Sialidae,Plankton,Family,Feeding guild,2,Young,
+Sialidae Psychodidae,Sialidae,Psychodidae,Family,Family,2,Young,Young
+Sialidae Ptychopteridae,Sialidae,Ptychopteridae,Family,Family,2,Young,Young
+Sialidae Scirtidae,Sialidae,Scirtidae,Family,Family,1; 2,Young,Young
+Sialidae Sialidae,Sialidae,Sialidae,Family,Family,1,Young,Young
+Sialidae Simuliidae,Sialidae,Simuliidae,Family,Family,1; 2,Young,Young
+Sialidae Stratiomyidae,Sialidae,Stratiomyidae,Family,Family,2,Young,Young
+Sialidae Syrphidae,Sialidae,Syrphidae,Family,Family,2,Young,Young
+Sialidae Tipulidae,Sialidae,Tipulidae,Family,Family,1; 2,Young,Young
+Simuliidae Aquatic detritus,Simuliidae,Aquatic detritus,Family,Feeding guild,2,Young,
+Simuliidae Chironomidae,Simuliidae,Chironomidae,Family,Family,1,Young,Young
+Simuliidae Haematophagous,Simuliidae,Haematophagous,Family,Feeding guild,2,Adult,
+Simuliidae Plankton,Simuliidae,Plankton,Family,Feeding guild,2,Young,
+Simuliidae Plants,Simuliidae,Plants,Family,Feeding guild,2,Young,Young
+Simuliidae Simuliidae,Simuliidae,Simuliidae,Family,Family,1,Young,Young
+Sphaeroceridae Acari,Sphaeroceridae,Fungi,Family,Feeding guild,103,Young,
+Sphaeroceridae Acari,Sphaeroceridae,Terrestrial detritus,Family,Feeding guild,103,Young,
+Staphylinidae Anthomyiidae,Staphylinidae,Anthomyiidae,Family,Family,1,,
+Staphylinidae Calliphoridae,Staphylinidae,Calliphoridae,Family,Family,1,Young,Young
+Staphylinidae Cantharidae,Staphylinidae,Cantharidae,Family,Family,1,Young and Adult,Young and Adult
+Staphylinidae Carabidae,Staphylinidae,Carabidae,Family,Family,1,Young and Adult,Young and Adult
+Staphylinidae Ceratopogonidae,Staphylinidae,Ceratopogonidae,Family,Family,1,Young,Young
+Staphylinidae Chironomidae,Staphylinidae,Chironomidae,Family,Family,1,Young,Young
+Staphylinidae Chordeumatidae,Staphylinidae,Chordeumatidae,Family,Family,1,Young and Adult,Young and Adult
+Staphylinidae Chrysomelidae,Staphylinidae,Chrysomelidae,Family,Family,1,Adult,Adult
+Staphylinidae Cicadellidae,Staphylinidae,Cicadellidae,Family,Family,1,Young,Young
+Staphylinidae Clubionidae,Staphylinidae,Clubionidae,Family,Family,1,Young and Adult,Young and Adult
+Staphylinidae Coccinellidae,Staphylinidae,Coccinellidae,Family,Family,1,,
+Staphylinidae Collembola,Staphylinidae,Collembola,Family,Feeding guild,102; 87,Adult,Young and Adult
+Staphylinidae Curculionidae,Staphylinidae,Curculionidae,Family,Family,1; 2,Adult,Adult
+Staphylinidae Dytiscidae,Staphylinidae,Dytiscidae,Family,Family,1,Young,Young
+Staphylinidae Elateridae,Staphylinidae,Elateridae,Family,Family,1,Young and Adult,Young and Adult
+Staphylinidae Formicidae,Staphylinidae,Formicidae,Family,Family,1; 2,,
+Staphylinidae Geophilidae,Staphylinidae,Geophilidae,Family,Family,1,Young and Adult,Young and Adult
+Staphylinidae Gerridae,Staphylinidae,Gerridae,Family,Family,1,,
+Staphylinidae Lampyridae,Staphylinidae,Lampyridae,Family,Family,1,Young,Young
+Staphylinidae Limoniidae,Staphylinidae,Limoniidae,Family,Family,1,Young,Young
+Staphylinidae Lycosidae,Staphylinidae,Lycosidae,Family,Family,1,Young and Adult,Young and Adult
+Staphylinidae Lymnaeidae,Staphylinidae,Lymnaeidae,Family,Family,1,,
+Staphylinidae Miridae,Staphylinidae,Miridae,Family,Family,1,,
+Staphylinidae Muscidae,Staphylinidae,Muscidae,Family,Family,1,,
+Staphylinidae Nitidulidae,Staphylinidae,Nitidulidae,Family,Family,1,Adult,Adult
+Staphylinidae Plants,Staphylinidae,Plants,Family,Feeding guild,2,,
+Staphylinidae Polyxenidae,Staphylinidae,Polyxenidae,Family,Family,1,Adult,Adult
+Staphylinidae Psychodidae,Staphylinidae,Psychodidae,Family,Family,1,Young and Adult,Young and Adult
+Staphylinidae Rhyparochromidae,Staphylinidae,Rhyparochromidae,Family,Family,1,,
+Staphylinidae Sarcophagidae,Staphylinidae,Sarcophagidae,Family,Family,1,Young and Adult,Young and Adult
+Staphylinidae Scarabaeidae,Staphylinidae,Scarabaeidae,Family,Family,1,,
+Staphylinidae Sepsidae,Staphylinidae,Sepsidae,Family,Family,94,Young and Adult,Young
+Staphylinidae Staphylinidae,Staphylinidae,Staphylinidae,Family,Family,1; 2,Young and Adult,Young and Adult
+Staphylinidae Tectocepheidae,Staphylinidae,Tectocepheidae,Family,Family,99,Young and Adult,Young and Adult
+Stenopsocidae Terrestrial detritus,Stenopsocidae,Terrestrial detritus,Family,Feeding guild,37,Young and Adult,
+Stratiomyidae Algae,Stratiomyidae,Algae,Family,Feeding guild,2,Young,
+Stratiomyidae Aquatic detritus,Stratiomyidae,Aquatic detritus,Family,Feeding guild,2,Young,
+Stratiomyidae Fungi,Stratiomyidae,Fungi,Family,Feeding guild,2,,
+Stratiomyidae Plankton,Stratiomyidae,Plankton,Family,Feeding guild,2,Young,
+Stratiomyidae Plants,Stratiomyidae,Plants,Family,Feeding guild,2,Young,Young
+Syrphidae Aquatic detritus,Syrphidae,Aquatic detritus,Family,Feeding guild,2,Young,
+Syrphidae Chrysomelidae,Syrphidae,Chrysomelidae,Family,Family,1; 2,Young,Young
+Syrphidae Curculionidae,Syrphidae,Curculionidae,Family,Family,2,,
+Syrphidae Formicidae,Syrphidae,Formicidae,Family,Family,1; 2,Young,Egg and Young
+Syrphidae Geometridae,Syrphidae,Geometridae,Family,Family,1,,
+Syrphidae Lauxaniidae,Syrphidae,Lauxaniidae,Family,Family,76,Young,
+Syrphidae Noctuidae,Syrphidae,Noctuidae,Family,Family,1,Young,Young
+Syrphidae Plankton,Syrphidae,Plankton,Family,Feeding guild,2,Young,
+Syrphidae Plants,Syrphidae,Plants,Family,Feeding guild,2,Young and Adult,Young
+Syrphidae Syrphidae,Syrphidae,Syrphidae,Family,Family,1,,
+Syrphidae Tenthredinidae,Syrphidae,Tenthredinidae,Family,Family,1,Young,Young
+Syrphidae Tortricidae,Syrphidae,Tortricidae,Family,Family,1; 2,Young,Young
+Tabanidae Annelida,Tabanidae,Annelida,Family,Feeding guild,2,Young,Young
+Tabanidae Baetidae,Tabanidae,Baetidae,Family,Family,2,Young,Young
+Tabanidae Caenidae,Tabanidae,Caenidae,Family,Family,2,Young,Young
+Tabanidae Capniidae,Tabanidae,Capniidae,Family,Family,2,Young,Young
+Tabanidae Chironomidae,Tabanidae,Chironomidae,Family,Family,2,Young,Young
+Tabanidae Chrysomelidae,Tabanidae,Chrysomelidae,Family,Family,2,Young,Young
+Tabanidae Culicidae,Tabanidae,Culicidae,Family,Family,2,Young,Young
+Tabanidae Curculionidae,Tabanidae,Curculionidae,Family,Family,2,Young,Young
+Tabanidae Dixidae,Tabanidae,Dixidae,Family,Family,2,Young,Young
+Tabanidae Dryopidae,Tabanidae,Dryopidae,Family,Family,2,Young,Young
+Tabanidae Elmidae,Tabanidae,Elmidae,Family,Family,2,Young,Young
+Tabanidae Ephemeridae,Tabanidae,Ephemeridae,Family,Family,2,Young,Young
+Tabanidae Ephydridae,Tabanidae,Ephydridae,Family,Family,2,Young,Young
+Tabanidae Gammaridae,Tabanidae,Gammaridae,Family,Family,2,Young,Young
+Tabanidae Haematophagous,Tabanidae,Haematophagous,Family,Feeding guild,2,Adult,
+Tabanidae Haliplidae,Tabanidae,Haliplidae,Family,Family,2,Young,Young
+Tabanidae Heptageniidae,Tabanidae,Heptageniidae,Family,Family,2,Young,Young
+Tabanidae Hydrophilidae,Tabanidae,Hydrophilidae,Family,Family,2,Young,Young
+Tabanidae Lepidostomatidae,Tabanidae,Lepidostomatidae,Family,Family,2,Young,Young
+Tabanidae Leuctridae,Tabanidae,Leuctridae,Family,Family,2,Young,Young
+Tabanidae Limnephilidae,Tabanidae,Limnephilidae,Family,Family,2,Young,Young
+Tabanidae Limoniidae,Tabanidae,Limoniidae,Family,Family,2,Young,Young
+Tabanidae Lymnaeidae,Tabanidae,Lymnaeidae,Family,Family,2,Young,Young
+Tabanidae Nemouridae,Tabanidae,Nemouridae,Family,Family,2,Young,Young
+Tabanidae Philopotamidae,Tabanidae,Philopotamidae,Family,Family,2,Young,Young
+Tabanidae Physidae,Tabanidae,Physidae,Family,Family,2,Young,Young
+Tabanidae Plankton,Tabanidae,Plankton,Family,Feeding guild,2,Young,
+Tabanidae Psychodidae,Tabanidae,Psychodidae,Family,Family,2,Young,Young
+Tabanidae Ptychopteridae,Tabanidae,Ptychopteridae,Family,Family,2,Young,Young
+Tabanidae Scirtidae,Tabanidae,Scirtidae,Family,Family,2,Young,Young
+Tabanidae Simuliidae,Tabanidae,Simuliidae,Family,Family,2,Young,Young
+Tabanidae Stratiomyidae,Tabanidae,Stratiomyidae,Family,Family,2,Young,Young
+Tabanidae Syrphidae,Tabanidae,Syrphidae,Family,Family,2,Young,Young
+Tabanidae Tipulidae,Tabanidae,Tipulidae,Family,Family,2,Young,Young
+Tectocepheidae Algae,Tectocepheidae,Algae,Family,Feeding guild,45,Young and Adult,
+Tenthredinidae Agromyzidae,Tenthredinidae,Agromyzidae,Family,Family,1,,
+Tenthredinidae Coenagrionidae,Tenthredinidae,Coenagrionidae,Family,Family,1,,
+Tenthredinidae Muscidae,Tenthredinidae,Muscidae,Family,Family,1,,
+Tenthredinidae Plants,Tenthredinidae,Plants,Family,Feeding guild,2,Young,
+Tenthredinidae Tenthredinidae,Tenthredinidae,Tenthredinidae,Family,Family,1,,
+Tephritidae Plants,Tephritidae,Plants,Family,Feeding guild,2,Adult,
+Tephritidae Tenthredinidae,Tephritidae,Tenthredinidae,Family,Family,1; 2,Young,Young
+Tephritidae Tephritidae,Tephritidae,Tephritidae,Family,Family,1,,
+Tipulidae Algae,Tipulidae,Algae,Family,Feeding guild,2,Young,
+Tipulidae Chironomidae,Tipulidae,Chironomidae,Family,Family,1,Young,Young
+Tipulidae Heptageniidae,Tipulidae,Heptageniidae,Family,Family,1,Young,Young
+Tipulidae Plants,Tipulidae,Plants,Family,Feeding guild,2,Young,Young
+Tipulidae Terrestrial detritus,Tipulidae,Terrestrial detritus,Family,Feeding guild,2,Young,
+Tipulidae Tipulidae,Tipulidae,Tipulidae,Family,Family,1,Young,Young
+Tortricidae Agromyzidae,Tortricidae,Agromyzidae,Family,Family,1,,
+Tortricidae Cecidomyiidae,Tortricidae,Cecidomyiidae,Family,Family,1,Young,Young
+Tortricidae Plants,Tortricidae,Plants,Family,Feeding guild,2,Young,
+Tortricidae Tenthredinidae,Tortricidae,Tenthredinidae,Family,Family,1,,
+Tortricidae Tortricidae,Tortricidae,Tortricidae,Family,Family,1,,
+Trichoceridae Terrestrial detritus,Trichoceridae,Terrestrial detritus,Family,Feeding guild,2,,
+Triozidae Plants,Triozidae,Plants,Family,Feeding guild,2,,
+Triozidae Triozidae,Triozidae,Triozidae,Family,Family,1; 2,,
+Trogidae Plants,Trogidae,Plants,Family,Feeding guild,2,,
