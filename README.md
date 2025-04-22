@@ -40,8 +40,7 @@ Rows = taxa, columns = phylogeny.
 
 
 
-Raw sequences for the data generated in this study will be uploaded on the European Nucleotide Archive upon acceptance.
-
+Raw sequences for the data generated in this study are available on the European Nucleotide Archive under accession project numbers PRJEB88517.
 
 *****************************************************
 
