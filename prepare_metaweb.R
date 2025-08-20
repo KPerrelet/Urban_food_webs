@@ -1,13 +1,3 @@
-# path <- "C:/Users/perrelki/switchdrive/Institution/"
-path <- "C:/Users/Kilia/switchdrive2/Institution/"
-
-setwd(paste0(path, "/Chapter4/"))
-
-minsize <- 10
-scheme <- "strict_"
-# scheme <- ""
-
-
 ################################################################################
 ############################## Metaweb preparation #############################
 ################################################################################
@@ -135,3 +125,4 @@ MW <- MW %>%
 
 # Save processed metaweb to a CSV file
 write.csv(MW, "metaweb_processed.csv", row.names = F)
+
