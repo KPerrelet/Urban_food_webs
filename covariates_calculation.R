@@ -1,8 +1,3 @@
-path <- "C:/Users/perrelki/switchdrive/Institution/"
-# path <- "C:/Users/Kilia/switchdrive2/Institution/"
-
-setwd(paste0(path, "/Chapter4/"))
-
 ################################################################################
 ############################ covariates calculation ############################
 ################################################################################
@@ -317,3 +312,4 @@ sites.sf <- sites.sf %>%
 
 # Save results
 write.csv(sites.sf, "covariates2.csv", row.names = F)
+
