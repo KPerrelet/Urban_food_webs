@@ -42,7 +42,7 @@ Rows = taxa, columns = phylogeny.
 
 Raw sequences for the data generated in this study are available on the European Nucleotide Archive under accession project numbers PRJEB88517.
 
-Data is also available on Zenodo at 10.5281/zenodo.15263460
+Data is also available on Zenodo at [10.5281/zenodo.15263460](https://doi.org/10.5281/zenodo.15263459)
 
 
 *****************************************************
@@ -56,13 +56,19 @@ fig3.R - generate Figure 3.
 
 fig4.R - generate Figure 4. 
 
-figS1.R - generate Figure S1. 
-
 figS2.R - generate Figure S2. 
 
-figS3.R - generate Figure S3. 
+figS4.R - generate Figure S4. 
 
 figS5.R - generate Figure S5. 
+
+figS6.R - generate Figure S6. 
+
+figS7.R - generate Figure S7. 
+
+figS8.R - generate Figure S8. 
+
+figS8.R - generate Figure S9. 
 
 foodweb_metrics_calculation.R - calculate food web metrics for all sites, including those resulting from null models.
 
