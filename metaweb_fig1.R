@@ -1,8 +1,3 @@
-path <- "C:/Users/perrelki/switchdrive/Institution/"
-# path <- "C:/Users/Kilia/switchdrive2/Institution/"
-
-setwd(paste0(path, "/Chapter4/"))
-
 ################################################################################
 ################################# Graph summary ################################
 ################################################################################
@@ -159,4 +154,5 @@ ggplot() +
          fill = guide_legend(title = "Omnivory levels", byrow = T, title.vjust = 2, override.aes = list(size = 8), order = 3), 
          linewidth = guide_legend(title = "Number of links", byrow = F, title.vjust = 1, order = 2), 
          size = guide_legend(title = "Number of families", order = 1))
+
 
